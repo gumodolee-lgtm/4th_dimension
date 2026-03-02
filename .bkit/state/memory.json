@@ -1,8 +1,10 @@
 {
-  "sessionCount": 2,
+  "sessionCount": 13,
   "lastSession": {
-    "startedAt": "2026-03-02T09:05:41.541Z",
+    "startedAt": "2026-03-02T12:00:12.477Z",
     "platform": "claude",
-    "level": "Starter"
-  }
+    "level": "Dynamic"
+  },
+  "currentFeature": "sermon-curriculum",
+  "currentPhase": "design"
 }

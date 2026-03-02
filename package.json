@@ -1,0 +1,16 @@
+{
+  "name": "4th-dimension-sermon-curriculum",
+  "version": "1.0.0",
+  "description": "4차원의 영성 설교 분류 및 성경공부 교재 생성 시스템",
+  "type": "module",
+  "scripts": {
+    "classify": "node scripts/classify.js",
+    "curriculum": "node scripts/generate-curriculum.js",
+    "lesson": "node scripts/generate-lesson.js",
+    "curriculum-v2": "node scripts/build-curriculum-v2.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^16.4.5"
+  }
+}

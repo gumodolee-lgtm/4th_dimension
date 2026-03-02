@@ -1,2 +1,6 @@
 .agents/
 .claude/
+node_modules/
+.env
+classified/
+curriculum/
