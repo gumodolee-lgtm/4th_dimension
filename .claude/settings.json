@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin list)",
+      "Read(//c/Users/jungi/.claude/plugins/**)",
+      "Read(//c/Users/jungi/.claude/**)",
+      "Skill(bkit:pdca)",
+      "Skill(bkit:pdca:*)",
+      "Bash(code --list-extensions --show-versions)",
+      "Bash(code --uninstall-extension codeflow-studio.claude-code-extension)",
+      "Bash(code --uninstall-extension andrepimenta.claude-code-chat)",
+      "Bash(test -f \"d:/AI_PROJECT/4th_dimension/.env\")",
+      "Bash(test -f \"d:/AI_PROJECT/4th_dimension/.gitignore\")",
+      "Bash(npm install)",
+      "Bash(node scripts/classify.js --limit=5)",
+      "Bash(node scripts/classify.js --resume)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(''Total processed:'', d[''totalProcessed'']\\); print\\(''By element:'', d[''byElement'']\\); print\\(''Errors:'', len\\(d[''errors'']\\)\\); print\\(''Last 5 errors:''\\); [print\\('' -'', e[''file''][-50:], ''|'', e[''error''][:60]\\) for e in d[''errors''][-5:]]\")",
+      "Bash(python3 -c \":*)",
+      "Bash(node scripts/build-curriculum-v2.js --element=생각)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(git clone https://github.com/affaan-m/everything-claude-code.git C:/Users/jungi/everything-claude-code)",
+      "Read(//c/Users/jungi/everything-claude-code/**)",
+      "Bash(git clone https://github.com/anthropics/skills.git C:/Users/jungi/anthropics-skills)",
+      "Read(//c/Users/jungi/anthropics-skills/skills/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\jungi\\.claude",
+      "C:\\Users\\jungi\\everything-claude-code\\agents",
+      "C:\\Users\\jungi\\everything-claude-code"
+    ]
+  }
+}

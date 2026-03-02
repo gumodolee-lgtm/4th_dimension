@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bible-study-tool-creator",
+  "owner": "authenticwalk",
+  "repo": "mybibletoolbox-code",
+  "path": ".claude/skills/bible-study-tool-creator",
+  "branch": "main",
+  "sha": "7313f691a2f8605b942f95831ea15ac109cdc241",
+  "source": "manual"
+}

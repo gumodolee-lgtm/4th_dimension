@@ -1,5 +1,6 @@
 .agents/
-.claude/
+.claude/settings.local.json
+.claude/claude-code-chat-images/
 node_modules/
 .env
 classified/
