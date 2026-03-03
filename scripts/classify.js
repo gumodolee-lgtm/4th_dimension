@@ -81,8 +81,9 @@ async function classifySermon(client, sermon) {
   });
 
   const raw = response.content[0].text.trim();
-  // 마크다운 코드블록(```json ... ```) 제거
-  const text = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
+  // 마크다운 코드블록(```json ... ```) 추출 또는 전체 텍스트 사용
+  const codeBlockMatch = raw.match(/```(?:json)?\s*([\s\S]*?)```/i);
+  const text = codeBlockMatch ? codeBlockMatch[1].trim() : raw.trim();
   const parsed = JSON.parse(text);
 
   return {
