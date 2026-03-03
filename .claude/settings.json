@@ -22,7 +22,14 @@
       "Bash(git clone https://github.com/affaan-m/everything-claude-code.git C:/Users/jungi/everything-claude-code)",
       "Read(//c/Users/jungi/everything-claude-code/**)",
       "Bash(git clone https://github.com/anthropics/skills.git C:/Users/jungi/anthropics-skills)",
-      "Read(//c/Users/jungi/anthropics-skills/skills/**)"
+      "Read(//c/Users/jungi/anthropics-skills/skills/**)",
+      "Bash(node -e \":*)",
+      "Bash(node scripts/generate-curriculum.js --element=생각)",
+      "Bash(node scripts/generate-curriculum.js --element=믿음)",
+      "Bash(node scripts/generate-curriculum.js --element=꿈)",
+      "Bash(node scripts/generate-curriculum.js --element=말)",
+      "Bash(node scripts/build-curriculum-v2.js --element=믿음)",
+      "Bash(node scripts/build-curriculum-v2.js --element=꿈)"
     ],
     "additionalDirectories": [
       "C:\\Users\\jungi\\.claude",
