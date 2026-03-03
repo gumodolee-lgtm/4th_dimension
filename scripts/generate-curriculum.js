@@ -12,6 +12,7 @@ const CURRICULUM_DIR = join(ROOT, 'curriculum');
 const PROMPT_FILE = join(__dirname, 'prompts', 'curriculum-prompt.md');
 
 const MODEL = 'claude-sonnet-4-6';
+const RATE_LIMIT_DELAY = 30000; // 30초 — output token rate limit (8,000/min) 대응
 
 // 12주 커리큘럼 구조
 const WEEK_PLAN = {
@@ -130,7 +131,7 @@ function buildSystemPrompt() {
 async function generateWeekContent(client, element, weekInfo, sermons) {
   const response = await client.messages.create({
     model: MODEL,
-    max_tokens: 2048,
+    max_tokens: 4096,
     system: buildSystemPrompt(),
     messages: [{ role: 'user', content: buildPrompt(element, weekInfo, sermons) }],
   });
@@ -170,7 +171,7 @@ async function main() {
     chapters.push(content);
 
     // API 부하 방지
-    await new Promise(r => setTimeout(r, 1500));
+    await new Promise(r => setTimeout(r, RATE_LIMIT_DELAY));
   }
 
   // 전체 교재 조합
