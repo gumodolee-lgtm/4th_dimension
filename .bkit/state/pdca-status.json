@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-03-03T08:14:18.794Z",
+  "lastUpdated": "2026-03-04T09:00:00.000Z",
   "activeFeatures": [
     "sermon-curriculum",
     "scripts"
@@ -8,12 +8,20 @@
   "primaryFeature": "sermon-curriculum",
   "features": {
     "sermon-curriculum": {
-      "phase": "do",
+      "phase": "act",
       "startedAt": "2026-03-02T09:42:03.108Z",
-      "lastUpdated": "2026-03-03T08:15:00.000Z",
+      "lastUpdated": "2026-03-04T12:00:00.000Z",
       "matchRate": null,
-      "iterationCount": 0,
-      "notes": "Plan+Design 완료. 스크립트 구현 완료. 4개 요소 교재 생성 완료. 분류 오류 19개 재처리 필요."
+      "iterationCount": 2,
+      "checkCompleted": true,
+      "checkDate": "2026-03-04",
+      "checkResult": "PASS",
+      "notes": "Plan+Design 완료. 교재 생성 완료. Check: 일관성 오류 16개 발견 및 수정 완료. Plan 품질기준 강화. Act 2차: 생각/꿈/믿음/말 4개 주제 × 12과 = 48개 참여자 교재 + 48개 인도자 매뉴얼 docx 전부 생성 완료(96개 파일). scripts/generate-all-v1-1.js로 자동화.",
+      "nextActions": [
+        "다음 주 예고 자동 검증 스크립트 개발",
+        "V1-2 docx 파일 동일 기준 적용 검증",
+        "전체 96개 파일 품질 전수 검증"
+      ]
     },
     "scripts": {
       "phase": "do",
