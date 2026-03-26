@@ -4,3 +4,6 @@
 node_modules/
 .env
 classified/
+output/_unpack_*/
+.bkit/snapshots/
+.bkit/runtime/
