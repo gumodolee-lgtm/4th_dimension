@@ -1,0 +1,5899 @@
+{
+  "summary": {
+    "top300_count": 300,
+    "validated_keep_count": 292,
+    "hard_exclude_count": 4,
+    "review_exclude_count": 4,
+    "mean_confidence": 0.513,
+    "min_confidence": 0.29,
+    "max_confidence": 0.85,
+    "mean_margin_to_second": 49.78,
+    "margin_lt_5": 21,
+    "margin_lt_10": 37,
+    "confidence_le_030": 8,
+    "confidence_le_040": 65,
+    "mismatch_count_in_top300": 4
+  },
+  "rows": [
+    {
+      "rank": 1,
+      "date": "2015-11-08",
+      "title": "“그런즉 누구든지 그리스도 안에 있으면 새로운 피조물이라 이전 것은 지나갔으니 보라 새 것이 되었도다” 고린도후서 5장 17절",
+      "score": 372.5,
+      "confidence": 0.8,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 372.5,
+        "꿈": 40.2,
+        "믿음": 29.6,
+        "말": 26.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 332.3
+    },
+    {
+      "rank": 2,
+      "date": "2001-07-01",
+      "title": "삶의 성공과 실패를 가져오는 자화상",
+      "score": 336.9,
+      "confidence": 0.78,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 336.9,
+        "꿈": 32.7,
+        "믿음": 37.9,
+        "말": 23.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 299.0
+    },
+    {
+      "rank": 3,
+      "date": "2010-09-19",
+      "title": "네 마음을 지켜라",
+      "score": 296.4,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 296.4,
+        "꿈": 95.1,
+        "믿음": 28.4,
+        "말": 30.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 201.3
+    },
+    {
+      "rank": 4,
+      "date": "1988-06-12",
+      "title": "마음의 변화",
+      "score": 276.1,
+      "confidence": 0.64,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 276.1,
+        "꿈": 51.2,
+        "믿음": 58.9,
+        "말": 42.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 217.2
+    },
+    {
+      "rank": 5,
+      "date": "2018-04-29",
+      "title": "생명의 전문가, 예수",
+      "score": 265.4,
+      "confidence": 0.72,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 265.4,
+        "꿈": 19.4,
+        "믿음": 62.7,
+        "말": 22.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 202.7
+    },
+    {
+      "rank": 6,
+      "date": "1996-10-06",
+      "title": "축복을 가져오는 생활태도",
+      "score": 264.1,
+      "confidence": 0.67,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 264.1,
+        "꿈": 42.9,
+        "믿음": 32.8,
+        "말": 55.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 209.0
+    },
+    {
+      "rank": 7,
+      "date": "2018-12-30",
+      "title": "행복한 삶",
+      "score": 259.6,
+      "confidence": 0.68,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 259.6,
+        "꿈": 22.6,
+        "믿음": 68.7,
+        "말": 31.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 190.9
+    },
+    {
+      "rank": 8,
+      "date": "2019-11-17",
+      "title": "마음의 평화와 창조적 기도",
+      "score": 249.1,
+      "confidence": 0.59,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 249.1,
+        "꿈": 8.3,
+        "믿음": 113.2,
+        "말": 54.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 135.9
+    },
+    {
+      "rank": 9,
+      "date": "2015-03-15",
+      "title": "나는 나의 자화상을 본다 14",
+      "score": 248.2,
+      "confidence": 0.59,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 248.2,
+        "꿈": 45.3,
+        "믿음": 30.4,
+        "말": 95.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 152.8
+    },
+    {
+      "rank": 10,
+      "date": "2014-06-15",
+      "title": "(제목 미상)",
+      "score": 220.0,
+      "confidence": 0.73,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 220.0,
+        "꿈": 48.0,
+        "믿음": 29.4,
+        "말": 6.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 172.0
+    },
+    {
+      "rank": 11,
+      "date": "1985-09-22",
+      "title": "마음의 건강",
+      "score": 216.2,
+      "confidence": 0.85,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 216.2,
+        "꿈": 3.2,
+        "믿음": 22.3,
+        "말": 11.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 193.9
+    },
+    {
+      "rank": 12,
+      "date": "2019-02-24",
+      "title": "긍정의 삶",
+      "score": 208.3,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 208.3,
+        "꿈": 107.4,
+        "믿음": 37.9,
+        "말": 9.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 100.9
+    },
+    {
+      "rank": 13,
+      "date": "2016-01-31",
+      "title": "수고하고 무거운 짐 진 자들 2",
+      "score": 204.0,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 204.0,
+        "꿈": 48.9,
+        "믿음": 43.8,
+        "말": 12.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 155.1
+    },
+    {
+      "rank": 14,
+      "date": "2009-01-04",
+      "title": "예수님을 바라보는 한 해",
+      "score": 195.0,
+      "confidence": 0.52,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 195.0,
+        "꿈": 89.9,
+        "믿음": 51.7,
+        "말": 37.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 105.1
+    },
+    {
+      "rank": 15,
+      "date": "2013-11-03",
+      "title": "생각의 터전 11",
+      "score": 194.1,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 194.1,
+        "꿈": 55.5,
+        "믿음": 28.5,
+        "말": 47.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 138.6
+    },
+    {
+      "rank": 16,
+      "date": "2019-02-10",
+      "title": "하나님을 영화롭게 하는 감사",
+      "score": 193.1,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 193.1,
+        "꿈": 40.4,
+        "믿음": 60.8,
+        "말": 16.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 132.3
+    },
+    {
+      "rank": 17,
+      "date": "2010-11-14",
+      "title": "내 속의 숨은 정체성을 보라",
+      "score": 190.5,
+      "confidence": 0.72,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 190.5,
+        "꿈": 32.0,
+        "믿음": 18.9,
+        "말": 22.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 158.5
+    },
+    {
+      "rank": 18,
+      "date": "2017-10-29",
+      "title": "자화상",
+      "score": 190.0,
+      "confidence": 0.72,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 190.0,
+        "꿈": 17.0,
+        "믿음": 13.8,
+        "말": 42.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 148.0
+    },
+    {
+      "rank": 19,
+      "date": "2016-12-18",
+      "title": "감사 찬송과 행복의 열매",
+      "score": 189.9,
+      "confidence": 0.63,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 189.9,
+        "꿈": 30.1,
+        "믿음": 60.1,
+        "말": 23.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 129.8
+    },
+    {
+      "rank": 20,
+      "date": "1992-03-01",
+      "title": "보혈로 그린 자화상",
+      "score": 187.4,
+      "confidence": 0.73,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 187.4,
+        "꿈": 22.8,
+        "믿음": 34.4,
+        "말": 13.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 153.0
+    },
+    {
+      "rank": 21,
+      "date": "2015-10-11",
+      "title": "나는 행복하게 살고 싶다 10",
+      "score": 187.4,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 187.4,
+        "꿈": 17.2,
+        "믿음": 67.0,
+        "말": 10.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 120.4
+    },
+    {
+      "rank": 22,
+      "date": "2016-02-21",
+      "title": "생각한 것이 이뤄진다 6",
+      "score": 187.3,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 187.3,
+        "꿈": 182.0,
+        "믿음": 72.8,
+        "말": 44.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 5.3
+    },
+    {
+      "rank": 23,
+      "date": "2007-01-21",
+      "title": "마음하늘",
+      "score": 187.0,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 187.0,
+        "꿈": 120.1,
+        "믿음": 33.1,
+        "말": 32.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 66.9
+    },
+    {
+      "rank": 24,
+      "date": "1999-02-21",
+      "title": "이전 것과 새것",
+      "score": 185.2,
+      "confidence": 0.64,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 185.2,
+        "꿈": 29.5,
+        "믿음": 17.5,
+        "말": 56.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 129.1
+    },
+    {
+      "rank": 25,
+      "date": "2009-08-30",
+      "title": "나의 정체성",
+      "score": 179.6,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 179.6,
+        "꿈": 19.9,
+        "믿음": 38.5,
+        "말": 34.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 141.1
+    },
+    {
+      "rank": 26,
+      "date": "2018-06-17",
+      "title": "그 성에 큰 기쁨이 있더라",
+      "score": 179.3,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 179.3,
+        "꿈": 51.9,
+        "믿음": 36.2,
+        "말": 120.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 59.2
+    },
+    {
+      "rank": 27,
+      "date": "2012-07-22",
+      "title": "마음이 낙심될 때 11",
+      "score": 175.0,
+      "confidence": 0.41,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 175.0,
+        "꿈": 124.0,
+        "믿음": 42.0,
+        "말": 82.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 51.0
+    },
+    {
+      "rank": 28,
+      "date": "2015-09-13",
+      "title": "항상 기뻐하라, 쉬지 말고 기도하라, 범사에 감사하라 8",
+      "score": 172.6,
+      "confidence": 0.82,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 172.6,
+        "꿈": 2.7,
+        "믿음": 26.9,
+        "말": 7.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 145.7
+    },
+    {
+      "rank": 29,
+      "date": "2020-01-26",
+      "title": "네 마음을 지키라 생명의 근원이 이에게 남이니라",
+      "score": 172.5,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 172.5,
+        "꿈": 60.0,
+        "믿음": 51.7,
+        "말": 89.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 82.8
+    },
+    {
+      "rank": 30,
+      "date": "2012-09-02",
+      "title": "나의 도움이 어디서 오나? 11",
+      "score": 168.9,
+      "confidence": 0.48,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 168.9,
+        "꿈": 61.7,
+        "믿음": 62.0,
+        "말": 60.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 106.9
+    },
+    {
+      "rank": 31,
+      "date": "2019-03-31",
+      "title": "마음을 지키라",
+      "score": 167.1,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 167.1,
+        "꿈": 32.3,
+        "믿음": 24.6,
+        "말": 53.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 113.3
+    },
+    {
+      "rank": 32,
+      "date": "2010-05-23",
+      "title": "마음의 생각을 지켜라",
+      "score": 166.1,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 166.1,
+        "꿈": 85.7,
+        "믿음": 39.7,
+        "말": 17.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 80.4
+    },
+    {
+      "rank": 33,
+      "date": "2016-01-17",
+      "title": "갈렙의 마음 5",
+      "score": 164.7,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "전체점수 최고값이 '꿈'이며, 본문도 갈렙의 비전/정탐 보고에 무게가 더 큼.",
+      "all_scores": {
+        "생각": 164.7,
+        "꿈": 202.2,
+        "믿음": 46.0,
+        "말": 34.3
+      },
+      "top_score_category": "꿈",
+      "margin_to_second": 37.5
+    },
+    {
+      "rank": 34,
+      "date": "2001-06-10",
+      "title": "나는 누구입니까? (정체성의 위기)",
+      "score": 164.3,
+      "confidence": 0.7,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 164.3,
+        "꿈": 21.5,
+        "믿음": 14.6,
+        "말": 35.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 129.3
+    },
+    {
+      "rank": 35,
+      "date": "1990-01-28",
+      "title": "삶을 좀더 밝게 보며",
+      "score": 162.5,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 162.5,
+        "꿈": 35.0,
+        "믿음": 43.6,
+        "말": 19.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 118.9
+    },
+    {
+      "rank": 36,
+      "date": "1989-12-03",
+      "title": "마음의 눈",
+      "score": 156.6,
+      "confidence": 0.77,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 156.6,
+        "꿈": 13.9,
+        "믿음": 32.5,
+        "말": 1.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 124.1
+    },
+    {
+      "rank": 37,
+      "date": "2017-07-02",
+      "title": "네 마음을 지켜라",
+      "score": 153.2,
+      "confidence": 0.58,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 153.2,
+        "꿈": 27.4,
+        "믿음": 27.9,
+        "말": 55.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 97.9
+    },
+    {
+      "rank": 38,
+      "date": "2014-05-25",
+      "title": "나의 삶을 바꾸자면 7",
+      "score": 152.3,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 152.3,
+        "꿈": 42.6,
+        "믿음": 42.5,
+        "말": 90.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 61.5
+    },
+    {
+      "rank": 39,
+      "date": "2015-07-26",
+      "title": "행복한 삶 7",
+      "score": 151.1,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 151.1,
+        "꿈": 18.8,
+        "믿음": 79.9,
+        "말": 27.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 71.2
+    },
+    {
+      "rank": 40,
+      "date": "1983-05-29",
+      "title": "성경말씀: 갈라디아서 6:7∼10",
+      "score": 147.3,
+      "confidence": 0.67,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 147.3,
+        "꿈": 7.8,
+        "믿음": 16.9,
+        "말": 47.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 99.8
+    },
+    {
+      "rank": 41,
+      "date": "1981-01-11",
+      "title": "행복과 마음의 작정",
+      "score": 147.0,
+      "confidence": 0.75,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 147.0,
+        "꿈": 29.0,
+        "믿음": 7.3,
+        "말": 11.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 118.0
+    },
+    {
+      "rank": 42,
+      "date": "1982-12-12",
+      "title": "생동하는 신앙",
+      "score": 145.5,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 145.5,
+        "꿈": 31.6,
+        "믿음": 53.6,
+        "말": 38.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 91.9
+    },
+    {
+      "rank": 43,
+      "date": "2017-09-10",
+      "title": "아무것도 염려하지 말고 주님께 아뢰라",
+      "score": 144.3,
+      "confidence": 0.75,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 144.3,
+        "꿈": 19.8,
+        "믿음": 20.1,
+        "말": 7.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 124.2
+    },
+    {
+      "rank": 44,
+      "date": "1983-11-27",
+      "title": "성경말씀: 고린도후서 1:19∼22",
+      "score": 143.9,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 143.9,
+        "꿈": 24.1,
+        "믿음": 38.5,
+        "말": 24.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 105.4
+    },
+    {
+      "rank": 45,
+      "date": "2018-08-19",
+      "title": "네 모든 길에서 너를 지키게 하심이라",
+      "score": 143.7,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 143.7,
+        "꿈": 83.2,
+        "믿음": 78.5,
+        "말": 26.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 60.5
+    },
+    {
+      "rank": 46,
+      "date": "1989-07-30",
+      "title": "마음의 평강",
+      "score": 142.9,
+      "confidence": 0.75,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 142.9,
+        "꿈": 9.8,
+        "믿음": 23.5,
+        "말": 15.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 119.4
+    },
+    {
+      "rank": 47,
+      "date": "2002-02-10",
+      "title": "배우고 확신한 일에 거하라",
+      "score": 142.7,
+      "confidence": 0.51,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 142.7,
+        "꿈": 32.5,
+        "믿음": 67.4,
+        "말": 39.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 75.3
+    },
+    {
+      "rank": 48,
+      "date": "2006-07-16",
+      "title": "자승자박(自繩自縛)",
+      "score": 142.6,
+      "confidence": 0.69,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 142.6,
+        "꿈": 25.4,
+        "믿음": 14.9,
+        "말": 23.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 117.2
+    },
+    {
+      "rank": 49,
+      "date": "2013-10-06",
+      "title": "마음 지키기 12",
+      "score": 142.5,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 142.5,
+        "꿈": 55.7,
+        "믿음": 28.7,
+        "말": 38.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 86.8
+    },
+    {
+      "rank": 50,
+      "date": "2017-10-01",
+      "title": "생각의 중요성",
+      "score": 136.7,
+      "confidence": 0.59,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 136.7,
+        "꿈": 30.4,
+        "믿음": 61.2,
+        "말": 5.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 75.5
+    },
+    {
+      "rank": 51,
+      "date": "2017-01-22",
+      "title": "항상 기뻐하라 쉬지말고 기도하라 범사에 감사하라",
+      "score": 134.8,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 134.8,
+        "꿈": 42.2,
+        "믿음": 21.4,
+        "말": 43.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 91.5
+    },
+    {
+      "rank": 52,
+      "date": "2007-11-18",
+      "title": "왜 감사해야 하나?",
+      "score": 134.6,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 134.6,
+        "꿈": 24.7,
+        "믿음": 33.1,
+        "말": 10.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 101.5
+    },
+    {
+      "rank": 53,
+      "date": "2013-04-07",
+      "title": "마음 하늘 7",
+      "score": 132.3,
+      "confidence": 0.52,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 132.3,
+        "꿈": 41.7,
+        "믿음": 43.0,
+        "말": 39.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 89.3
+    },
+    {
+      "rank": 54,
+      "date": "1984-11-11",
+      "title": "생각을 바꿔라",
+      "score": 131.8,
+      "confidence": 0.68,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 131.8,
+        "꿈": 40.0,
+        "믿음": 13.2,
+        "말": 10.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 91.8
+    },
+    {
+      "rank": 55,
+      "date": "2005-09-11",
+      "title": "<b>패배자는 설 곳이 없다</b>",
+      "score": 130.1,
+      "confidence": 0.67,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 130.1,
+        "꿈": 20.9,
+        "믿음": 18.4,
+        "말": 23.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 106.6
+    },
+    {
+      "rank": 56,
+      "date": "2019-06-30",
+      "title": "마음의 평화",
+      "score": 129.2,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 129.2,
+        "꿈": 28.2,
+        "믿음": 60.2,
+        "말": 62.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 66.4
+    },
+    {
+      "rank": 57,
+      "date": "1982-07-04",
+      "title": "마음의 청소",
+      "score": 129.0,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 129.0,
+        "꿈": 29.2,
+        "믿음": 22.9,
+        "말": 13.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 99.8
+    },
+    {
+      "rank": 58,
+      "date": "2015-09-20",
+      "title": "영혼을 치료하는 위로 7",
+      "score": 128.0,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 128.0,
+        "꿈": 63.9,
+        "믿음": 71.3,
+        "말": 23.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 56.7
+    },
+    {
+      "rank": 59,
+      "date": "2010-07-11",
+      "title": "나를 다스리는 힘",
+      "score": 127.1,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 127.1,
+        "꿈": 86.0,
+        "믿음": 32.7,
+        "말": 31.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 41.1
+    },
+    {
+      "rank": 60,
+      "date": "2002-12-09",
+      "title": "삶과 불안",
+      "score": 124.8,
+      "confidence": 0.72,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 124.8,
+        "꿈": 8.6,
+        "믿음": 22.6,
+        "말": 17.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 102.2
+    },
+    {
+      "rank": 61,
+      "date": "2007-06-03",
+      "title": "절대 긍정의 삶",
+      "score": 124.1,
+      "confidence": 0.72,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 124.1,
+        "꿈": 12.0,
+        "믿음": 15.7,
+        "말": 20.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 103.8
+    },
+    {
+      "rank": 62,
+      "date": "2014-02-02",
+      "title": "수고하고 무거운 짐 진 자들 11",
+      "score": 123.6,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 123.6,
+        "꿈": 79.4,
+        "믿음": 60.4,
+        "말": 82.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 41.4
+    },
+    {
+      "rank": 63,
+      "date": "2007-10-14",
+      "title": "마음 성전",
+      "score": 122.4,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 122.4,
+        "꿈": 51.3,
+        "믿음": 61.2,
+        "말": 69.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 53.4
+    },
+    {
+      "rank": 64,
+      "date": "1984-06-10",
+      "title": "마음이 실망될 때",
+      "score": 122.2,
+      "confidence": 0.67,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 122.2,
+        "꿈": 14.0,
+        "믿음": 22.7,
+        "말": 23.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 98.8
+    },
+    {
+      "rank": 65,
+      "date": "2003-12-14",
+      "title": "하나님의 평강",
+      "score": 121.7,
+      "confidence": 0.78,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 121.7,
+        "꿈": 3.5,
+        "믿음": 25.4,
+        "말": 6.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 96.3
+    },
+    {
+      "rank": 66,
+      "date": "2015-02-01",
+      "title": "흑자 인생과 적자 인생 7",
+      "score": 121.7,
+      "confidence": 0.41,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 121.7,
+        "꿈": 96.6,
+        "믿음": 54.2,
+        "말": 25.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.1
+    },
+    {
+      "rank": 67,
+      "date": "1986-09-21",
+      "title": "축복된 생활태도",
+      "score": 120.9,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 120.9,
+        "꿈": 105.8,
+        "믿음": 39.8,
+        "말": 14.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 15.1
+    },
+    {
+      "rank": 68,
+      "date": "2014-02-23",
+      "title": "고난을 극복하는 세 가지 길 19",
+      "score": 120.3,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "전체점수 최고값이 '믿음'이며, 본문 핵심이 고난 중 하나님께 맡기는 신앙에 가까움.",
+      "all_scores": {
+        "생각": 120.3,
+        "꿈": 8.5,
+        "믿음": 125.8,
+        "말": 1.7
+      },
+      "top_score_category": "믿음",
+      "margin_to_second": 5.5
+    },
+    {
+      "rank": 69,
+      "date": "2019-04-28",
+      "title": "평안을 품은 가슴",
+      "score": 120.0,
+      "confidence": 0.39,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 120.0,
+        "꿈": 98.5,
+        "믿음": 28.7,
+        "말": 58.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 21.5
+    },
+    {
+      "rank": 70,
+      "date": "2006-11-19",
+      "title": "범사에 감사하라",
+      "score": 119.4,
+      "confidence": 0.69,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 119.4,
+        "꿈": 26.9,
+        "믿음": 19.5,
+        "말": 6.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 92.5
+    },
+    {
+      "rank": 71,
+      "date": "2001-11-18",
+      "title": "<b>감사의 영적 의미</b>",
+      "score": 119.3,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 119.3,
+        "꿈": 19.8,
+        "믿음": 21.0,
+        "말": 21.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 97.6
+    },
+    {
+      "rank": 72,
+      "date": "2017-03-05",
+      "title": "내 믿음의 가나다라",
+      "score": 119.0,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 119.0,
+        "꿈": 87.7,
+        "믿음": 58.3,
+        "말": 17.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.3
+    },
+    {
+      "rank": 73,
+      "date": "1982-03-14",
+      "title": "건전한 자존심",
+      "score": 118.0,
+      "confidence": 0.75,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 118.0,
+        "꿈": 17.8,
+        "믿음": 16.7,
+        "말": 4.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 100.2
+    },
+    {
+      "rank": 74,
+      "date": "2008-06-08",
+      "title": "믿으려고 해도 안 믿어질 때",
+      "score": 116.3,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 116.3,
+        "꿈": 67.8,
+        "믿음": 50.6,
+        "말": 33.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 48.5
+    },
+    {
+      "rank": 75,
+      "date": "2017-03-26",
+      "title": "위로와 희망",
+      "score": 115.8,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 115.8,
+        "꿈": 66.3,
+        "믿음": 65.7,
+        "말": 18.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 49.5
+    },
+    {
+      "rank": 76,
+      "date": "2014-11-09",
+      "title": "전능하신 하나님 8",
+      "score": 112.7,
+      "confidence": 0.74,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 112.7,
+        "꿈": 10.9,
+        "믿음": 14.4,
+        "말": 14.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 98.3
+    },
+    {
+      "rank": 77,
+      "date": "2017-08-20",
+      "title": "항상 기도하고 낙심치 말라",
+      "score": 111.5,
+      "confidence": 0.55,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 111.5,
+        "꿈": 24.7,
+        "믿음": 63.5,
+        "말": 4.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 48.0
+    },
+    {
+      "rank": 78,
+      "date": "1985-09-01",
+      "title": "기쁨의 샘",
+      "score": 111.3,
+      "confidence": 0.63,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 111.3,
+        "꿈": 2.9,
+        "믿음": 26.0,
+        "말": 36.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 74.4
+    },
+    {
+      "rank": 79,
+      "date": "2018-09-30",
+      "title": "기도하고 감사하는 삶",
+      "score": 111.3,
+      "confidence": 0.58,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 111.3,
+        "꿈": 15.7,
+        "믿음": 33.2,
+        "말": 33.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 78.1
+    },
+    {
+      "rank": 80,
+      "date": "2019-03-03",
+      "title": "하나님의 생각과 우리의 생각",
+      "score": 110.2,
+      "confidence": 0.61,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 110.2,
+        "꿈": 20.3,
+        "믿음": 40.6,
+        "말": 11.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 69.6
+    },
+    {
+      "rank": 81,
+      "date": "2015-07-12",
+      "title": "밥이냐 메뚜기냐 5",
+      "score": 109.4,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 109.4,
+        "꿈": 44.6,
+        "믿음": 68.6,
+        "말": 26.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 40.8
+    },
+    {
+      "rank": 82,
+      "date": "1985-10-13",
+      "title": "태도",
+      "score": 108.3,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 108.3,
+        "꿈": 72.3,
+        "믿음": 45.0,
+        "말": 11.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 36.0
+    },
+    {
+      "rank": 83,
+      "date": "2007-03-04",
+      "title": "변화의 능력 십자가",
+      "score": 106.3,
+      "confidence": 0.63,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 106.3,
+        "꿈": 26.3,
+        "믿음": 32.1,
+        "말": 3.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 74.2
+    },
+    {
+      "rank": 84,
+      "date": "2000-10-15",
+      "title": "치료받아야 할 마음",
+      "score": 106.1,
+      "confidence": 0.69,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 106.1,
+        "꿈": 11.5,
+        "믿음": 19.9,
+        "말": 15.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 86.2
+    },
+    {
+      "rank": 85,
+      "date": "2000-02-13",
+      "title": "마음의 건강을 얻는 세가지 길",
+      "score": 105.8,
+      "confidence": 0.84,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 105.8,
+        "꿈": 4.1,
+        "믿음": 14.5,
+        "말": 2.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 91.3
+    },
+    {
+      "rank": 86,
+      "date": "2015-06-14",
+      "title": "야훼를 찾는 자는 모든 것에 부족함이 없다 6",
+      "score": 105.7,
+      "confidence": 0.33,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 105.7,
+        "꿈": 82.1,
+        "믿음": 52.2,
+        "말": 83.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 21.8
+    },
+    {
+      "rank": 87,
+      "date": "2002-01-27",
+      "title": "두려움",
+      "score": 105.4,
+      "confidence": 0.72,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 105.4,
+        "꿈": 3.1,
+        "믿음": 32.0,
+        "말": 6.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 73.4
+    },
+    {
+      "rank": 88,
+      "date": "2019-06-23",
+      "title": "나병환자 네 사람과 아람의 군대",
+      "score": 104.6,
+      "confidence": 0.39,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 104.6,
+        "꿈": 100.4,
+        "믿음": 22.0,
+        "말": 42.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 4.2
+    },
+    {
+      "rank": 89,
+      "date": "1983-10-09",
+      "title": "바울 선생의 성공적 삶의 비결",
+      "score": 103.4,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 103.4,
+        "꿈": 97.1,
+        "믿음": 13.9,
+        "말": 13.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 6.3
+    },
+    {
+      "rank": 90,
+      "date": "2014-03-30",
+      "title": "마음 다스리기 5",
+      "score": 103.1,
+      "confidence": 0.35,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 103.1,
+        "꿈": 44.7,
+        "믿음": 61.4,
+        "말": 82.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 20.5
+    },
+    {
+      "rank": 91,
+      "date": "1988-05-15",
+      "title": "참된 효도",
+      "score": 103.0,
+      "confidence": 0.73,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 103.0,
+        "꿈": 11.5,
+        "믿음": 17.7,
+        "말": 8.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 85.3
+    },
+    {
+      "rank": 92,
+      "date": "2000-11-19",
+      "title": "감사가 성공과 행복을 가져온다",
+      "score": 102.7,
+      "confidence": 0.51,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 102.7,
+        "꿈": 36.8,
+        "믿음": 54.0,
+        "말": 7.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 48.7
+    },
+    {
+      "rank": 93,
+      "date": "2006-02-05",
+      "title": "내적 저항력",
+      "score": 102.2,
+      "confidence": 0.51,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 102.2,
+        "꿈": 54.4,
+        "믿음": 23.6,
+        "말": 20.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 47.8
+    },
+    {
+      "rank": 94,
+      "date": "1982-03-07",
+      "title": "마음의 평화",
+      "score": 102.0,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 102.0,
+        "꿈": 11.2,
+        "믿음": 21.4,
+        "말": 28.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 73.2
+    },
+    {
+      "rank": 95,
+      "date": "2006-10-29",
+      "title": "겉사람과 속사람",
+      "score": 102.0,
+      "confidence": 0.64,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 102.0,
+        "꿈": 15.4,
+        "믿음": 34.4,
+        "말": 6.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 67.6
+    },
+    {
+      "rank": 96,
+      "date": "2009-11-15",
+      "title": "감사가 생활화되어야 한다",
+      "score": 100.0,
+      "confidence": 0.7,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 100.0,
+        "꿈": 12.0,
+        "믿음": 16.4,
+        "말": 13.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 83.6
+    },
+    {
+      "rank": 97,
+      "date": "2013-01-13",
+      "title": "그의 눈을 열어서 보게 하옵소서 7",
+      "score": 100.0,
+      "confidence": 0.41,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 100.0,
+        "꿈": 39.7,
+        "믿음": 47.3,
+        "말": 54.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 45.2
+    },
+    {
+      "rank": 98,
+      "date": "2006-09-03",
+      "title": "나는 누구인가?",
+      "score": 99.5,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 99.5,
+        "꿈": 24.7,
+        "믿음": 27.1,
+        "말": 14.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 72.4
+    },
+    {
+      "rank": 99,
+      "date": "2016-02-28",
+      "title": "내 영혼아 야훼를 송축하라 6",
+      "score": 97.1,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 97.1,
+        "꿈": 62.9,
+        "믿음": 36.8,
+        "말": 27.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 34.2
+    },
+    {
+      "rank": 100,
+      "date": "2018-06-24",
+      "title": "믿음, 바라는 것들의 실상",
+      "score": 96.7,
+      "confidence": 0.3,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "제목과 본문 구조가 모두 '믿음' 중심이며, 전체점수 최고값도 '믿음'임.",
+      "all_scores": {
+        "생각": 96.7,
+        "꿈": 62.8,
+        "믿음": 108.3,
+        "말": 94.5
+      },
+      "top_score_category": "믿음",
+      "margin_to_second": 11.6
+    },
+    {
+      "rank": 101,
+      "date": "1983-02-27",
+      "title": "성경말씀: 열왕기하 6:14∼17",
+      "score": 96.5,
+      "confidence": 0.64,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 96.5,
+        "꿈": 17.6,
+        "믿음": 17.3,
+        "말": 19.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 76.9
+    },
+    {
+      "rank": 102,
+      "date": "2003-11-16",
+      "title": "평범 속에서 감사하라",
+      "score": 96.2,
+      "confidence": 0.7,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 96.2,
+        "꿈": 10.9,
+        "믿음": 14.4,
+        "말": 15.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 81.1
+    },
+    {
+      "rank": 103,
+      "date": "2007-04-29",
+      "title": "쓰레기 청소",
+      "score": 94.9,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 94.9,
+        "꿈": 16.4,
+        "믿음": 38.6,
+        "말": 19.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 56.3
+    },
+    {
+      "rank": 104,
+      "date": "2012-08-12",
+      "title": "천지를 진동시키는 감사의 힘 16",
+      "score": 94.9,
+      "confidence": 0.52,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 94.9,
+        "꿈": 27.5,
+        "믿음": 39.7,
+        "말": 21.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 55.2
+    },
+    {
+      "rank": 105,
+      "date": "1997-03-02",
+      "title": "마음이 불안하고 초조할 때",
+      "score": 94.5,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 94.5,
+        "꿈": 25.7,
+        "믿음": 24.5,
+        "말": 23.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 68.8
+    },
+    {
+      "rank": 106,
+      "date": "1981-04-05",
+      "title": "행복한 사람",
+      "score": 94.4,
+      "confidence": 0.58,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 94.4,
+        "꿈": 36.4,
+        "믿음": 19.3,
+        "말": 11.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 58.0
+    },
+    {
+      "rank": 107,
+      "date": "2016-08-28",
+      "title": "삶의 분위기와 행복",
+      "score": 94.4,
+      "confidence": 0.52,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 94.4,
+        "꿈": 28.2,
+        "믿음": 39.5,
+        "말": 18.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 54.9
+    },
+    {
+      "rank": 108,
+      "date": "2019-09-08",
+      "title": "사랑이란 마음의 상태",
+      "score": 93.8,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 93.8,
+        "꿈": 32.3,
+        "믿음": 50.9,
+        "말": 21.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 42.9
+    },
+    {
+      "rank": 109,
+      "date": "1998-11-15",
+      "title": "하나님의 뜻과 마음의 건강",
+      "score": 93.5,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 93.5,
+        "꿈": 21.2,
+        "믿음": 24.1,
+        "말": 16.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 69.4
+    },
+    {
+      "rank": 110,
+      "date": "2016-11-27",
+      "title": "우리가 어디서 떡을 사서 이 사람들을 먹이겠느냐?",
+      "score": 93.0,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 93.0,
+        "꿈": 47.1,
+        "믿음": 76.1,
+        "말": 28.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 16.9
+    },
+    {
+      "rank": 111,
+      "date": "1991-10-13",
+      "title": "친히 어떻게 하실 것을 아시고",
+      "score": 91.8,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 91.8,
+        "꿈": 66.6,
+        "믿음": 44.9,
+        "말": 15.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.2
+    },
+    {
+      "rank": 112,
+      "date": "1982-01-24",
+      "title": "삶을 실패케 하는 마음가짐",
+      "score": 91.5,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 91.5,
+        "꿈": 23.3,
+        "믿음": 34.8,
+        "말": 15.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 56.7
+    },
+    {
+      "rank": 113,
+      "date": "1981-06-28",
+      "title": "행복의 내적 조건",
+      "score": 91.1,
+      "confidence": 0.65,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 91.1,
+        "꿈": 24.2,
+        "믿음": 20.0,
+        "말": 5.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 66.9
+    },
+    {
+      "rank": 114,
+      "date": "2019-07-14",
+      "title": "에너지가 있어야 생기가 있다",
+      "score": 90.3,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 90.3,
+        "꿈": 36.0,
+        "믿음": 38.3,
+        "말": 16.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 52.0
+    },
+    {
+      "rank": 115,
+      "date": "1981-06-21",
+      "title": "<b>나, 나의 생각</b>",
+      "score": 90.1,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 90.1,
+        "꿈": 18.6,
+        "믿음": 29.9,
+        "말": 7.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 60.2
+    },
+    {
+      "rank": 116,
+      "date": "2015-08-02",
+      "title": "교회는 무엇을 하는 곳인가 6",
+      "score": 88.8,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 88.8,
+        "꿈": 20.9,
+        "믿음": 46.9,
+        "말": 20.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 41.9
+    },
+    {
+      "rank": 117,
+      "date": "2005-09-18",
+      "title": "<b>신분</b>",
+      "score": 88.7,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 88.7,
+        "꿈": 29.9,
+        "믿음": 38.5,
+        "말": 21.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 50.2
+    },
+    {
+      "rank": 118,
+      "date": "1981-11-15",
+      "title": "풍요한 추수를 위하여",
+      "score": 87.4,
+      "confidence": 0.55,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 87.4,
+        "꿈": 24.0,
+        "믿음": 37.8,
+        "말": 9.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 49.6
+    },
+    {
+      "rank": 119,
+      "date": "2014-08-17",
+      "title": "나는 누구인가? 10",
+      "score": 87.0,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 87.0,
+        "꿈": 24.2,
+        "믿음": 28.7,
+        "말": 48.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 39.0
+    },
+    {
+      "rank": 120,
+      "date": "2015-01-11",
+      "title": "배우고 확신한 일에 거하라 7",
+      "score": 86.6,
+      "confidence": 0.33,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 86.6,
+        "꿈": 65.0,
+        "믿음": 80.7,
+        "말": 31.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 5.9
+    },
+    {
+      "rank": 121,
+      "date": "2008-04-27",
+      "title": "나의 삶을 다스리는 법칙",
+      "score": 86.0,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "생각 요소가 강하지만 전체점수 최고값이 '꿈'이며, 설교 구조가 생각→꿈 전개로 이어짐.",
+      "all_scores": {
+        "생각": 86.0,
+        "꿈": 93.8,
+        "믿음": 35.7,
+        "말": 32.5
+      },
+      "top_score_category": "꿈",
+      "margin_to_second": 7.8
+    },
+    {
+      "rank": 122,
+      "date": "1986-01-19",
+      "title": "네마음을 지키라",
+      "score": 85.6,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 85.6,
+        "꿈": 25.8,
+        "믿음": 51.3,
+        "말": 30.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 34.3
+    },
+    {
+      "rank": 123,
+      "date": "2013-01-06",
+      "title": "나는 누구인가? 3",
+      "score": 85.6,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 85.6,
+        "꿈": 28.1,
+        "믿음": 39.4,
+        "말": 36.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 46.2
+    },
+    {
+      "rank": 124,
+      "date": "2003-01-12",
+      "title": "행복에 이르는 여덟가지 복 (Ⅰ)",
+      "score": 85.3,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 85.3,
+        "꿈": 24.5,
+        "믿음": 30.1,
+        "말": 10.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 55.2
+    },
+    {
+      "rank": 125,
+      "date": "2016-06-12",
+      "title": "마음의 분위기 9",
+      "score": 84.8,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 84.8,
+        "꿈": 40.7,
+        "믿음": 7.7,
+        "말": 47.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 37.6
+    },
+    {
+      "rank": 126,
+      "date": "2017-06-04",
+      "title": "10對 2의 정탐 보고",
+      "score": 83.3,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 83.3,
+        "꿈": 52.3,
+        "믿음": 48.4,
+        "말": 5.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.0
+    },
+    {
+      "rank": 127,
+      "date": "2002-01-13",
+      "title": "플러스 인생과 마이너스 인생",
+      "score": 83.2,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 83.2,
+        "꿈": 51.6,
+        "믿음": 35.4,
+        "말": 14.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.6
+    },
+    {
+      "rank": 128,
+      "date": "2006-10-22",
+      "title": "소박한 행복",
+      "score": 83.2,
+      "confidence": 0.74,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 83.2,
+        "꿈": 0.9,
+        "믿음": 12.1,
+        "말": 16.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 66.7
+    },
+    {
+      "rank": 129,
+      "date": "2012-12-30",
+      "title": "(제목 미상)",
+      "score": 83.1,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 83.1,
+        "꿈": 19.0,
+        "믿음": 41.0,
+        "말": 24.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 42.1
+    },
+    {
+      "rank": 130,
+      "date": "2007-03-25",
+      "title": "긍정만이 사는 길이다",
+      "score": 83.0,
+      "confidence": 0.48,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 83.0,
+        "꿈": 42.0,
+        "믿음": 43.4,
+        "말": 4.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 39.6
+    },
+    {
+      "rank": 131,
+      "date": "1987-06-21",
+      "title": "낮은 마음",
+      "score": 82.7,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 82.7,
+        "꿈": 11.8,
+        "믿음": 21.9,
+        "말": 17.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 60.8
+    },
+    {
+      "rank": 132,
+      "date": "2016-05-15",
+      "title": "빌립을 시험해 보시는 예수님 5",
+      "score": 82.4,
+      "confidence": 0.35,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 82.4,
+        "꿈": 33.0,
+        "믿음": 65.7,
+        "말": 55.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 16.7
+    },
+    {
+      "rank": 133,
+      "date": "2014-06-22",
+      "title": "(제목 미상)",
+      "score": 81.5,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 81.5,
+        "꿈": 24.9,
+        "믿음": 57.4,
+        "말": 38.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 24.1
+    },
+    {
+      "rank": 134,
+      "date": "2010-09-26",
+      "title": "우리가 매일 드리는 마음의 제사",
+      "score": 80.4,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 80.4,
+        "꿈": 44.7,
+        "믿음": 37.1,
+        "말": 36.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 35.7
+    },
+    {
+      "rank": 135,
+      "date": "1992-06-14",
+      "title": "하나님의 평강을 갖기 위하여",
+      "score": 79.7,
+      "confidence": 0.77,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 79.7,
+        "꿈": 2.9,
+        "믿음": 15.9,
+        "말": 5.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 63.8
+    },
+    {
+      "rank": 136,
+      "date": "2007-12-09",
+      "title": "신앙과 결단",
+      "score": 79.6,
+      "confidence": 0.48,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 79.6,
+        "꿈": 19.8,
+        "믿음": 47.6,
+        "말": 18.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 32.0
+    },
+    {
+      "rank": 137,
+      "date": "2018-01-14",
+      "title": "엘리야와 바알의 선지자들",
+      "score": 79.6,
+      "confidence": 0.59,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 79.6,
+        "꿈": 18.5,
+        "믿음": 24.1,
+        "말": 12.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 55.5
+    },
+    {
+      "rank": 138,
+      "date": "2006-08-27",
+      "title": "행복의 조건",
+      "score": 79.5,
+      "confidence": 0.7,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 79.5,
+        "꿈": 8.6,
+        "믿음": 14.1,
+        "말": 11.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 65.4
+    },
+    {
+      "rank": 139,
+      "date": "2002-10-06",
+      "title": "하나님의 생각과 우리의 생각, 하나님의 길과 우리의 길",
+      "score": 79.0,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 79.0,
+        "꿈": 12.1,
+        "믿음": 24.6,
+        "말": 24.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 54.4
+    },
+    {
+      "rank": 140,
+      "date": "2008-11-02",
+      "title": "엘리야의 우울증",
+      "score": 77.6,
+      "confidence": 0.67,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 77.6,
+        "꿈": 15.8,
+        "믿음": 15.0,
+        "말": 7.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 61.8
+    },
+    {
+      "rank": 141,
+      "date": "2018-04-22",
+      "title": "내가 너와 함께하리라",
+      "score": 77.4,
+      "confidence": 0.37,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 77.4,
+        "꿈": 49.6,
+        "믿음": 34.6,
+        "말": 46.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 27.8
+    },
+    {
+      "rank": 142,
+      "date": "2017-10-15",
+      "title": "세상이 구원을 받게 하려 하심이라",
+      "score": 77.3,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 77.3,
+        "꿈": 21.2,
+        "믿음": 43.0,
+        "말": 27.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 34.3
+    },
+    {
+      "rank": 143,
+      "date": "1996-11-17",
+      "title": "하나님을 영화롭게 하는 길",
+      "score": 77.1,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 77.1,
+        "꿈": 20.6,
+        "믿음": 47.9,
+        "말": 8.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 29.2
+    },
+    {
+      "rank": 144,
+      "date": "2018-10-28",
+      "title": "우리를 자유케 하는 영",
+      "score": 77.0,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 77.0,
+        "꿈": 30.0,
+        "믿음": 30.0,
+        "말": 28.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 47.0
+    },
+    {
+      "rank": 145,
+      "date": "2013-10-20",
+      "title": "행복이 머무는 곳 17",
+      "score": 76.9,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 76.9,
+        "꿈": 29.9,
+        "믿음": 35.2,
+        "말": 12.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 41.7
+    },
+    {
+      "rank": 146,
+      "date": "2016-07-24",
+      "title": "네 믿은 대로 될지어다",
+      "score": 76.8,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 76.8,
+        "꿈": 19.2,
+        "믿음": 51.1,
+        "말": 18.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.7
+    },
+    {
+      "rank": 147,
+      "date": "1989-09-03",
+      "title": "하나님의 명함",
+      "score": 76.7,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 76.7,
+        "꿈": 36.4,
+        "믿음": 21.8,
+        "말": 1.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 40.3
+    },
+    {
+      "rank": 148,
+      "date": "2009-03-22",
+      "title": "항상 기뻐하라 쉬지 말고 기도하라 범사에 감사하라",
+      "score": 76.4,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 76.4,
+        "꿈": 28.1,
+        "믿음": 49.2,
+        "말": 18.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 27.2
+    },
+    {
+      "rank": 149,
+      "date": "2010-11-21",
+      "title": "하나님을 기쁘시게 하는 감사",
+      "score": 76.3,
+      "confidence": 0.58,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 76.3,
+        "꿈": 24.3,
+        "믿음": 20.0,
+        "말": 11.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 52.0
+    },
+    {
+      "rank": 150,
+      "date": "2000-07-16",
+      "title": "정신자 장애자",
+      "score": 76.0,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 76.0,
+        "꿈": 67.2,
+        "믿음": 39.1,
+        "말": 0.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 8.8
+    },
+    {
+      "rank": 151,
+      "date": "1999-03-14",
+      "title": "스트레스를 이기기 위하여",
+      "score": 75.7,
+      "confidence": 0.69,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 75.7,
+        "꿈": 6.0,
+        "믿음": 19.3,
+        "말": 9.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 56.4
+    },
+    {
+      "rank": 152,
+      "date": "2010-05-02",
+      "title": "응답받는 기도",
+      "score": 75.6,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 75.6,
+        "꿈": 56.0,
+        "믿음": 36.5,
+        "말": 10.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 19.6
+    },
+    {
+      "rank": 153,
+      "date": "1986-11-23",
+      "title": "야훼 하나님을 인하여 감사하라",
+      "score": 75.5,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 75.5,
+        "꿈": 19.4,
+        "믿음": 36.7,
+        "말": 22.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 38.8
+    },
+    {
+      "rank": 154,
+      "date": "2001-04-29",
+      "title": "하나님의 두 가지 크신 약속",
+      "score": 75.1,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 75.1,
+        "꿈": 21.4,
+        "믿음": 17.4,
+        "말": 10.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 53.7
+    },
+    {
+      "rank": 155,
+      "date": "2020-02-09",
+      "title": "평안은 어디에서 오는가?",
+      "score": 74.9,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 74.9,
+        "꿈": 16.4,
+        "믿음": 18.7,
+        "말": 52.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 22.2
+    },
+    {
+      "rank": 156,
+      "date": "2000-11-12",
+      "title": "마음이 착잡하고 우울할 때",
+      "score": 74.7,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 74.7,
+        "꿈": 21.1,
+        "믿음": 20.6,
+        "말": 14.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 53.6
+    },
+    {
+      "rank": 157,
+      "date": "2016-12-11",
+      "title": "나병환자 네 사람의 선택",
+      "score": 74.7,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 74.7,
+        "꿈": 61.5,
+        "믿음": 21.6,
+        "말": 11.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 13.2
+    },
+    {
+      "rank": 158,
+      "date": "1985-03-31",
+      "title": "마음을 강퍅하게 하지 말라",
+      "score": 74.1,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 74.1,
+        "꿈": 53.8,
+        "믿음": 58.4,
+        "말": 21.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 15.7
+    },
+    {
+      "rank": 159,
+      "date": "1999-05-09",
+      "title": "행복한 가정을 위하여",
+      "score": 73.7,
+      "confidence": 0.77,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 73.7,
+        "꿈": 5.2,
+        "믿음": 11.8,
+        "말": 5.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 61.9
+    },
+    {
+      "rank": 160,
+      "date": "2000-04-30",
+      "title": "절망의 사람, 희망의 사람",
+      "score": 73.7,
+      "confidence": 0.41,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 73.7,
+        "꿈": 53.1,
+        "믿음": 29.6,
+        "말": 24.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 20.6
+    },
+    {
+      "rank": 161,
+      "date": "2002-03-03",
+      "title": "“유라굴로”라는 폭풍",
+      "score": 73.7,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 73.7,
+        "꿈": 9.7,
+        "믿음": 24.5,
+        "말": 24.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 49.2
+    },
+    {
+      "rank": 162,
+      "date": "2007-08-05",
+      "title": "감사 찬양의 능력",
+      "score": 73.7,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 73.7,
+        "꿈": 29.5,
+        "믿음": 16.6,
+        "말": 49.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 24.7
+    },
+    {
+      "rank": 163,
+      "date": "1984-11-18",
+      "title": "감사의 제사",
+      "score": 73.5,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 73.5,
+        "꿈": 62.5,
+        "믿음": 25.7,
+        "말": 5.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 11.0
+    },
+    {
+      "rank": 164,
+      "date": "1999-11-07",
+      "title": "성공적인 인간관계",
+      "score": 72.9,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.9,
+        "꿈": 37.6,
+        "믿음": 6.2,
+        "말": 10.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 35.3
+    },
+    {
+      "rank": 165,
+      "date": "2001-02-25",
+      "title": "선택",
+      "score": 72.7,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.7,
+        "꿈": 45.6,
+        "믿음": 29.6,
+        "말": 11.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 27.1
+    },
+    {
+      "rank": 166,
+      "date": "2004-01-11",
+      "title": "이 보배를 질그릇 안에",
+      "score": 72.6,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.6,
+        "꿈": 18.1,
+        "믿음": 29.0,
+        "말": 54.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 18.2
+    },
+    {
+      "rank": 167,
+      "date": "1999-10-17",
+      "title": "겉사람과 속사람",
+      "score": 72.5,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.5,
+        "꿈": 33.3,
+        "믿음": 35.7,
+        "말": 20.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 36.8
+    },
+    {
+      "rank": 168,
+      "date": "2008-04-06",
+      "title": "감사와 찬양의 위력",
+      "score": 72.4,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.4,
+        "꿈": 14.8,
+        "믿음": 16.4,
+        "말": 44.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 27.7
+    },
+    {
+      "rank": 169,
+      "date": "2009-02-22",
+      "title": "내가 쉬게 하리라",
+      "score": 72.0,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.0,
+        "꿈": 35.2,
+        "믿음": 26.6,
+        "말": 19.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 36.8
+    },
+    {
+      "rank": 170,
+      "date": "2010-04-25",
+      "title": "감사와 찬송의 힘",
+      "score": 72.0,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.0,
+        "꿈": 29.8,
+        "믿음": 15.9,
+        "말": 46.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.4
+    },
+    {
+      "rank": 171,
+      "date": "2013-02-03",
+      "title": "네 짐을 야훼께 맡겨라 4",
+      "score": 72.0,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 72.0,
+        "꿈": 40.8,
+        "믿음": 35.0,
+        "말": 13.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.2
+    },
+    {
+      "rank": 172,
+      "date": "1985-10-20",
+      "title": "하나님의 안식",
+      "score": 71.6,
+      "confidence": 0.48,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 71.6,
+        "꿈": 40.0,
+        "믿음": 31.3,
+        "말": 6.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.6
+    },
+    {
+      "rank": 173,
+      "date": "1999-10-03",
+      "title": "절대 긍정의 삶",
+      "score": 71.5,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 71.5,
+        "꿈": 15.8,
+        "믿음": 16.1,
+        "말": 12.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 55.4
+    },
+    {
+      "rank": 174,
+      "date": "1999-11-21",
+      "title": "하나님의 축복과 형통",
+      "score": 70.8,
+      "confidence": 0.35,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 70.8,
+        "꿈": 61.6,
+        "믿음": 33.3,
+        "말": 35.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 9.2
+    },
+    {
+      "rank": 175,
+      "date": "2001-12-30",
+      "title": "회개로 떠나 보내는 한해",
+      "score": 70.8,
+      "confidence": 0.29,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 70.8,
+        "꿈": 58.2,
+        "믿음": 60.1,
+        "말": 58.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.7
+    },
+    {
+      "rank": 176,
+      "date": "2016-11-20",
+      "title": "내 영혼의 내진 설계",
+      "score": 70.5,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 70.5,
+        "꿈": 30.6,
+        "믿음": 34.1,
+        "말": 30.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 36.4
+    },
+    {
+      "rank": 177,
+      "date": "1990-11-11",
+      "title": "잘 사는 태도",
+      "score": 70.2,
+      "confidence": 0.58,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 70.2,
+        "꿈": 20.8,
+        "믿음": 21.2,
+        "말": 9.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 49.0
+    },
+    {
+      "rank": 178,
+      "date": "1989-11-19",
+      "title": "추수감사의 뜻",
+      "score": 69.8,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 69.8,
+        "꿈": 23.3,
+        "믿음": 18.5,
+        "말": 11.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 46.5
+    },
+    {
+      "rank": 179,
+      "date": "2014-01-12",
+      "title": "마귀와의 싸움 7",
+      "score": 68.3,
+      "confidence": 0.3,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 68.3,
+        "꿈": 60.4,
+        "믿음": 66.1,
+        "말": 36.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.2
+    },
+    {
+      "rank": 180,
+      "date": "2010-09-12",
+      "title": "이 보배를 질그릇 속에 가졌으니",
+      "score": 68.1,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 68.1,
+        "꿈": 27.6,
+        "믿음": 36.2,
+        "말": 22.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.9
+    },
+    {
+      "rank": 181,
+      "date": "1991-11-24",
+      "title": "염려치 말고 살아라",
+      "score": 67.5,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 67.5,
+        "꿈": 20.2,
+        "믿음": 17.3,
+        "말": 38.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 29.3
+    },
+    {
+      "rank": 182,
+      "date": "2016-05-08",
+      "title": "우리가 반드시 해야 할 입술의 고백 15",
+      "score": 67.1,
+      "confidence": 0.37,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 67.1,
+        "꿈": 7.8,
+        "믿음": 41.6,
+        "말": 63.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 3.6
+    },
+    {
+      "rank": 183,
+      "date": "2006-06-18",
+      "title": "영원한 행복의 길",
+      "score": 66.6,
+      "confidence": 0.64,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 66.6,
+        "꿈": 6.5,
+        "믿음": 13.8,
+        "말": 17.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 49.5
+    },
+    {
+      "rank": 184,
+      "date": "1988-01-03",
+      "title": "일어나라 빛을 발하라",
+      "score": 65.6,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 65.6,
+        "꿈": 47.8,
+        "믿음": 13.1,
+        "말": 22.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 17.8
+    },
+    {
+      "rank": 185,
+      "date": "1997-01-26",
+      "title": "삶이 지치고 낙심될 때",
+      "score": 65.2,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 65.2,
+        "꿈": 28.5,
+        "믿음": 47.3,
+        "말": 15.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 17.9
+    },
+    {
+      "rank": 186,
+      "date": "2018-06-10",
+      "title": "이에 일어나서 아버지께로 돌아가니라",
+      "score": 65.0,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 65.0,
+        "꿈": 5.0,
+        "믿음": 44.4,
+        "말": 23.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 20.6
+    },
+    {
+      "rank": 187,
+      "date": "1995-07-02",
+      "title": "좌절, 축복인가, 절망인가?",
+      "score": 64.5,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 64.5,
+        "꿈": 44.8,
+        "믿음": 13.8,
+        "말": 5.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 19.7
+    },
+    {
+      "rank": 188,
+      "date": "2012-07-15",
+      "title": "사망의 음침한 골짜기와 영적 전쟁 11",
+      "score": 64.0,
+      "confidence": 0.34,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 64.0,
+        "꿈": 62.4,
+        "믿음": 53.3,
+        "말": 10.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 1.6
+    },
+    {
+      "rank": 189,
+      "date": "2003-01-19",
+      "title": "행복에 이르는 여덟가지 복 (Ⅱ)",
+      "score": 63.8,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 63.8,
+        "꿈": 7.2,
+        "믿음": 17.4,
+        "말": 29.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 34.6
+    },
+    {
+      "rank": 190,
+      "date": "2009-08-16",
+      "title": "마음의 갈등",
+      "score": 63.3,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 63.3,
+        "꿈": 22.3,
+        "믿음": 30.8,
+        "말": 9.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 32.5
+    },
+    {
+      "rank": 191,
+      "date": "1999-05-30",
+      "title": "항상 기도하고 낙심치 말라",
+      "score": 62.5,
+      "confidence": 0.59,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 62.5,
+        "꿈": 15.5,
+        "믿음": 23.7,
+        "말": 3.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 38.8
+    },
+    {
+      "rank": 192,
+      "date": "2017-10-08",
+      "title": "배후의 힘",
+      "score": 62.5,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 62.5,
+        "꿈": 25.3,
+        "믿음": 44.5,
+        "말": 10.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 18.0
+    },
+    {
+      "rank": 193,
+      "date": "1984-10-14",
+      "title": "우리와 함께 한자가 저와 함께 한자보다 많으니라.",
+      "score": 62.4,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 62.4,
+        "꿈": 30.7,
+        "믿음": 22.7,
+        "말": 41.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 20.7
+    },
+    {
+      "rank": 194,
+      "date": "2002-04-21",
+      "title": "기도와 낙심",
+      "score": 62.2,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 62.2,
+        "꿈": 8.8,
+        "믿음": 12.1,
+        "말": 11.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 50.1
+    },
+    {
+      "rank": 195,
+      "date": "2019-04-14",
+      "title": "하늘을 바라보라",
+      "score": 61.3,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 61.3,
+        "꿈": 21.5,
+        "믿음": 22.3,
+        "말": 3.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 39.0
+    },
+    {
+      "rank": 196,
+      "date": "2012-12-02",
+      "title": "왜 예수님은 나의 보배인가? 5",
+      "score": 61.2,
+      "confidence": 0.3,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 61.2,
+        "꿈": 42.1,
+        "믿음": 49.4,
+        "말": 48.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 11.8
+    },
+    {
+      "rank": 197,
+      "date": "2007-09-09",
+      "title": "우리를 시험에 들게 하지 마시옵고",
+      "score": 61.1,
+      "confidence": 0.48,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 61.1,
+        "꿈": 16.8,
+        "믿음": 36.0,
+        "말": 12.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.1
+    },
+    {
+      "rank": 198,
+      "date": "2002-01-27",
+      "title": "넷째, 인간을 의지할 때 두려워하게 된다는 것입니다.",
+      "score": 60.9,
+      "confidence": 0.41,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 60.9,
+        "꿈": 4.8,
+        "믿음": 40.4,
+        "말": 42.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 18.4
+    },
+    {
+      "rank": 199,
+      "date": "2006-04-02",
+      "title": "나는 누구인가?",
+      "score": 60.7,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 60.7,
+        "꿈": 17.5,
+        "믿음": 18.9,
+        "말": 15.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 41.8
+    },
+    {
+      "rank": 200,
+      "date": "1997-06-15",
+      "title": "사마리아 여인의 절망과 희망",
+      "score": 60.3,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 60.3,
+        "꿈": 37.8,
+        "믿음": 7.2,
+        "말": 7.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 22.5
+    },
+    {
+      "rank": 201,
+      "date": "1988-01-31",
+      "title": "참된 예배",
+      "score": 59.9,
+      "confidence": 0.35,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 59.9,
+        "꿈": 53.9,
+        "믿음": 29.8,
+        "말": 28.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 6.0
+    },
+    {
+      "rank": 202,
+      "date": "2010-03-07",
+      "title": "제일 무서운 적(敵)은 스트레스이다",
+      "score": 59.8,
+      "confidence": 0.56,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 59.8,
+        "꿈": 13.2,
+        "믿음": 26.7,
+        "말": 6.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 33.1
+    },
+    {
+      "rank": 203,
+      "date": "2013-08-18",
+      "title": "변화시키시는 하나님 5",
+      "score": 59.7,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 59.7,
+        "꿈": 12.6,
+        "믿음": 56.9,
+        "말": 9.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.8
+    },
+    {
+      "rank": 204,
+      "date": "2015-03-22",
+      "title": "해가 지도록 분을 품지 말라 5",
+      "score": 58.3,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 58.3,
+        "꿈": 18.4,
+        "믿음": 41.2,
+        "말": 26.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 17.1
+    },
+    {
+      "rank": 205,
+      "date": "1997-05-11",
+      "title": "행복한 가정 만들기",
+      "score": 58.2,
+      "confidence": 0.66,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 58.2,
+        "꿈": 7.8,
+        "믿음": 14.2,
+        "말": 7.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 44.0
+    },
+    {
+      "rank": 206,
+      "date": "2007-07-08",
+      "title": "여덟 가지 최상의 복 (Ⅰ)",
+      "score": 57.2,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 57.2,
+        "꿈": 25.8,
+        "믿음": 26.8,
+        "말": 5.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 30.4
+    },
+    {
+      "rank": 207,
+      "date": "1984-10-07",
+      "title": "여호와의 산에 오를 자 누군가",
+      "score": 56.8,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 56.8,
+        "꿈": 46.7,
+        "믿음": 36.1,
+        "말": 7.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.1
+    },
+    {
+      "rank": 208,
+      "date": "1995-07-16",
+      "title": "우리의 삶을 실패케 하는 것들",
+      "score": 56.5,
+      "confidence": 0.59,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 56.5,
+        "꿈": 18.2,
+        "믿음": 15.8,
+        "말": 4.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 38.3
+    },
+    {
+      "rank": 209,
+      "date": "1990-05-06",
+      "title": "당신의 자녀는 괜찮습니까?",
+      "score": 56.4,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 56.4,
+        "꿈": 24.4,
+        "믿음": 8.7,
+        "말": 0.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 32.0
+    },
+    {
+      "rank": 210,
+      "date": "1990-11-18",
+      "title": "야훼께 감사하라",
+      "score": 56.0,
+      "confidence": 0.63,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 56.0,
+        "꿈": 1.9,
+        "믿음": 21.9,
+        "말": 9.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 34.1
+    },
+    {
+      "rank": 211,
+      "date": "2001-05-20",
+      "title": "뒤엣 것은 잊어 버리라",
+      "score": 56.0,
+      "confidence": 0.48,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 56.0,
+        "꿈": 43.3,
+        "믿음": 12.9,
+        "말": 3.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 12.7
+    },
+    {
+      "rank": 212,
+      "date": "2001-07-29",
+      "title": "우리와 함께한 자가 많으니라",
+      "score": 55.9,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 55.9,
+        "꿈": 40.0,
+        "믿음": 39.7,
+        "말": 20.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 15.9
+    },
+    {
+      "rank": 213,
+      "date": "2020-01-05",
+      "title": "예수 보혜사와 성령 보혜사",
+      "score": 55.9,
+      "confidence": 0.33,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 55.9,
+        "꿈": 39.7,
+        "믿음": 42.2,
+        "말": 33.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 13.7
+    },
+    {
+      "rank": 214,
+      "date": "1982-02-08",
+      "title": "(제목 미상)",
+      "score": 55.6,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 55.6,
+        "꿈": 10.6,
+        "믿음": 29.9,
+        "말": 21.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.7
+    },
+    {
+      "rank": 215,
+      "date": "2003-05-25",
+      "title": "믿고 참고 기다려라",
+      "score": 55.6,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 55.6,
+        "꿈": 26.7,
+        "믿음": 33.3,
+        "말": 38.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 16.7
+    },
+    {
+      "rank": 216,
+      "date": "2012-10-07",
+      "title": "마귀와의 싸움 6",
+      "score": 55.1,
+      "confidence": 0.29,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "영적 전쟁, 믿음, 입술의 시인이 강하게 섞여 있고 thought/word tie 사례임.",
+      "all_scores": {
+        "생각": 55.1,
+        "꿈": 25.6,
+        "믿음": 53.0,
+        "말": 55.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 0.0
+    },
+    {
+      "rank": 217,
+      "date": "2008-01-20",
+      "title": "물 위로 걸어오신 예수님",
+      "score": 55.0,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 55.0,
+        "꿈": 24.0,
+        "믿음": 45.9,
+        "말": 27.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 9.1
+    },
+    {
+      "rank": 218,
+      "date": "2015-05-17",
+      "title": "예수님 때문에 9",
+      "score": 54.7,
+      "confidence": 0.33,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 54.7,
+        "꿈": 39.5,
+        "믿음": 50.2,
+        "말": 20.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 4.5
+    },
+    {
+      "rank": 219,
+      "date": "1991-02-17",
+      "title": "새로워져야만 한다",
+      "score": 54.5,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 54.5,
+        "꿈": 23.8,
+        "믿음": 19.0,
+        "말": 23.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 30.7
+    },
+    {
+      "rank": 220,
+      "date": "2007-06-10",
+      "title": "참으로 복된 삶의 비결",
+      "score": 54.0,
+      "confidence": 0.68,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 54.0,
+        "꿈": 6.4,
+        "믿음": 16.7,
+        "말": 2.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 37.3
+    },
+    {
+      "rank": 221,
+      "date": "1985-12-01",
+      "title": "너희를 향하신 하나님의 뜻",
+      "score": 53.9,
+      "confidence": 0.37,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 53.9,
+        "꿈": 30.6,
+        "믿음": 43.1,
+        "말": 17.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.8
+    },
+    {
+      "rank": 222,
+      "date": "1995-11-19",
+      "title": "감사의 능력",
+      "score": 53.8,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 53.8,
+        "꿈": 10.4,
+        "믿음": 22.8,
+        "말": 20.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.0
+    },
+    {
+      "rank": 223,
+      "date": "2017-09-03",
+      "title": "건지고 채우시는 하나님",
+      "score": 53.7,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 53.7,
+        "꿈": 32.7,
+        "믿음": 25.5,
+        "말": 17.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 21.0
+    },
+    {
+      "rank": 224,
+      "date": "2000-05-07",
+      "title": "행복한 가정의 조건",
+      "score": 53.4,
+      "confidence": 0.65,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 53.4,
+        "꿈": 13.1,
+        "믿음": 14.4,
+        "말": 1.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 39.0
+    },
+    {
+      "rank": 225,
+      "date": "2009-12-27",
+      "title": "나는 포도나무요 너희는 가지니",
+      "score": 53.3,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 53.3,
+        "꿈": 37.0,
+        "믿음": 21.0,
+        "말": 22.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 16.3
+    },
+    {
+      "rank": 226,
+      "date": "2008-06-01",
+      "title": "마귀가 왜 나를 억압하나?",
+      "score": 53.0,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 53.0,
+        "꿈": 18.0,
+        "믿음": 23.3,
+        "말": 13.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 29.7
+    },
+    {
+      "rank": 227,
+      "date": "2018-11-25",
+      "title": "선한 목자이신 예수님",
+      "score": 53.0,
+      "confidence": 0.51,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 53.0,
+        "꿈": 6.0,
+        "믿음": 30.0,
+        "말": 15.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 23.0
+    },
+    {
+      "rank": 228,
+      "date": "1984-05-13",
+      "title": "가정",
+      "score": 52.6,
+      "confidence": 0.51,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 52.6,
+        "꿈": 30.9,
+        "믿음": 16.7,
+        "말": 3.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 21.7
+    },
+    {
+      "rank": 229,
+      "date": "2015-05-03",
+      "title": "예수님과 니고데모 10",
+      "score": 52.6,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 52.6,
+        "꿈": 29.7,
+        "믿음": 42.1,
+        "말": 12.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.5
+    },
+    {
+      "rank": 230,
+      "date": "2010-10-24",
+      "title": "마라의 쓴 물",
+      "score": 52.4,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 52.4,
+        "꿈": 22.8,
+        "믿음": 47.2,
+        "말": 24.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 5.2
+    },
+    {
+      "rank": 231,
+      "date": "2016-03-06",
+      "title": "회개, 용서, 새사람 10",
+      "score": 51.9,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.9,
+        "꿈": 29.2,
+        "믿음": 39.7,
+        "말": 9.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 12.2
+    },
+    {
+      "rank": 232,
+      "date": "1981-08-16",
+      "title": "엘리야의 우울증",
+      "score": 51.8,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.8,
+        "꿈": 13.5,
+        "믿음": 12.3,
+        "말": 9.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 38.3
+    },
+    {
+      "rank": 233,
+      "date": "1997-03-09",
+      "title": "주인 없는 집의 우환",
+      "score": 51.6,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.6,
+        "꿈": 11.7,
+        "믿음": 13.4,
+        "말": 13.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 37.8
+    },
+    {
+      "rank": 234,
+      "date": "2002-06-16",
+      "title": "하나님을 섬기는 예절",
+      "score": 51.6,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.6,
+        "꿈": 12.6,
+        "믿음": 17.4,
+        "말": 24.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 27.3
+    },
+    {
+      "rank": 235,
+      "date": "1985-12-12",
+      "title": "우리 속사람을 대적하는 원수들",
+      "score": 51.5,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.5,
+        "꿈": 15.7,
+        "믿음": 42.6,
+        "말": 25.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 8.9
+    },
+    {
+      "rank": 236,
+      "date": "1982-11-21",
+      "title": "감사보은의 생활",
+      "score": 51.2,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.2,
+        "꿈": 19.1,
+        "믿음": 14.1,
+        "말": 6.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 32.1
+    },
+    {
+      "rank": 237,
+      "date": "1987-01-18",
+      "title": "왜 기도해야 되나",
+      "score": 51.2,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.2,
+        "꿈": 5.5,
+        "믿음": 32.9,
+        "말": 38.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 12.7
+    },
+    {
+      "rank": 238,
+      "date": "2007-05-20",
+      "title": "밖으로 나가 하늘을 쳐다보라",
+      "score": 51.2,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 51.2,
+        "꿈": 36.2,
+        "믿음": 36.5,
+        "말": 19.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 14.7
+    },
+    {
+      "rank": 239,
+      "date": "2012-10-28",
+      "title": "하나님의 때와 하나님의 방법 9",
+      "score": 50.9,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 50.9,
+        "꿈": 20.3,
+        "믿음": 26.5,
+        "말": 24.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 24.4
+    },
+    {
+      "rank": 240,
+      "date": "2009-05-10",
+      "title": "부모 공경",
+      "score": 50.8,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 50.8,
+        "꿈": 13.7,
+        "믿음": 12.2,
+        "말": 8.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 37.1
+    },
+    {
+      "rank": 241,
+      "date": "2006-11-05",
+      "title": "나의 목자 예수님",
+      "score": 50.5,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 50.5,
+        "꿈": 25.9,
+        "믿음": 14.4,
+        "말": 9.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 24.6
+    },
+    {
+      "rank": 242,
+      "date": "1999-04-25",
+      "title": "나는 강한 자",
+      "score": 49.8,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 49.8,
+        "꿈": 22.6,
+        "믿음": 35.3,
+        "말": 32.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 14.5
+    },
+    {
+      "rank": 243,
+      "date": "2019-01-20",
+      "title": "우리와 함께한 자가 그들과 함께 한 자보다 많으니라",
+      "score": 49.3,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 49.3,
+        "꿈": 39.1,
+        "믿음": 31.8,
+        "말": 18.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.2
+    },
+    {
+      "rank": 244,
+      "date": "2014-07-20",
+      "title": "믿음의 기도 11",
+      "score": 49.1,
+      "confidence": 0.3,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "제목과 본문 중심축이 '믿음의 기도'이며 생각 요소는 보조적임.",
+      "all_scores": {
+        "생각": 49.1,
+        "꿈": 33.5,
+        "믿음": 37.1,
+        "말": 45.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 3.8
+    },
+    {
+      "rank": 245,
+      "date": "1990-06-03",
+      "title": "생 활 점 검",
+      "score": 49.0,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 49.0,
+        "꿈": 18.4,
+        "믿음": 41.4,
+        "말": 5.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 7.6
+    },
+    {
+      "rank": 246,
+      "date": "1983-07-03",
+      "title": "성경말씀: 요한1서 4장 16∼19",
+      "score": 48.7,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.7,
+        "꿈": 8.0,
+        "믿음": 13.8,
+        "말": 7.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 34.9
+    },
+    {
+      "rank": 247,
+      "date": "1994-07-10",
+      "title": "(제목 미상)",
+      "score": 48.6,
+      "confidence": 0.57,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.6,
+        "꿈": 18.7,
+        "믿음": 14.0,
+        "말": 4.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 29.9
+    },
+    {
+      "rank": 248,
+      "date": "2005-10-26",
+      "title": "(제목 미상)",
+      "score": 48.6,
+      "confidence": 0.39,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.6,
+        "꿈": 22.8,
+        "믿음": 25.2,
+        "말": 29.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 19.5
+    },
+    {
+      "rank": 249,
+      "date": "1987-05-10",
+      "title": "부모와 자녀",
+      "score": 48.3,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.3,
+        "꿈": 8.3,
+        "믿음": 28.7,
+        "말": 11.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 19.6
+    },
+    {
+      "rank": 250,
+      "date": "2009-11-25",
+      "title": "(제목 미상)",
+      "score": 48.3,
+      "confidence": 0.37,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.3,
+        "꿈": 36.2,
+        "믿음": 11.4,
+        "말": 33.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 12.1
+    },
+    {
+      "rank": 251,
+      "date": "2014-08-31",
+      "title": "율법과 은혜 9",
+      "score": 48.3,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.3,
+        "꿈": 9.4,
+        "믿음": 42.3,
+        "말": 12.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 6.0
+    },
+    {
+      "rank": 252,
+      "date": "2005-10-09",
+      "title": "<b>주님의 선하심과 인자하심</b>",
+      "score": 48.2,
+      "confidence": 0.37,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.2,
+        "꿈": 30.8,
+        "믿음": 37.8,
+        "말": 13.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.4
+    },
+    {
+      "rank": 253,
+      "date": "1991-07-21",
+      "title": "<b>하나님의 뜻을 알기 위하여</b>",
+      "score": 48.1,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 48.1,
+        "꿈": 12.4,
+        "믿음": 20.8,
+        "말": 26.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 21.2
+    },
+    {
+      "rank": 254,
+      "date": "2007-02-18",
+      "title": "빈집의 우환",
+      "score": 47.4,
+      "confidence": 0.62,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 47.4,
+        "꿈": 12.0,
+        "믿음": 13.1,
+        "말": 3.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 34.3
+    },
+    {
+      "rank": 255,
+      "date": "1986-08-17",
+      "title": "포도주가 모자란지라.",
+      "score": 47.3,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 47.3,
+        "꿈": 10.9,
+        "믿음": 28.8,
+        "말": 26.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 18.5
+    },
+    {
+      "rank": 256,
+      "date": "1991-11-17",
+      "title": "할렐루야, 야훼를 찬양하라",
+      "score": 47.1,
+      "confidence": 0.33,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 47.1,
+        "꿈": 35.5,
+        "믿음": 33.5,
+        "말": 26.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 11.6
+    },
+    {
+      "rank": 257,
+      "date": "1985-06-30",
+      "title": "말세에 고통 하는 때",
+      "score": 47.0,
+      "confidence": 0.61,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 47.0,
+        "꿈": 6.5,
+        "믿음": 21.9,
+        "말": 2.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.1
+    },
+    {
+      "rank": 258,
+      "date": "1985-07-07",
+      "title": "거듭난 사람은 어떤 사람인가?",
+      "score": 46.9,
+      "confidence": 0.4,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 46.9,
+        "꿈": 27.9,
+        "믿음": 28.6,
+        "말": 13.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 18.3
+    },
+    {
+      "rank": 259,
+      "date": "1985-11-17",
+      "title": "하나님을 기쁘시게 한 것",
+      "score": 46.9,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 46.9,
+        "꿈": 3.3,
+        "믿음": 22.5,
+        "말": 23.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 23.4
+    },
+    {
+      "rank": 260,
+      "date": "2003-03-23",
+      "title": "여호와는 나의 목자시니 내가 부족함이 없으리로다 그가 나를 푸른 초장에 누이시며",
+      "score": 46.9,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 46.9,
+        "꿈": 25.6,
+        "믿음": 37.2,
+        "말": 13.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 9.7
+    },
+    {
+      "rank": 261,
+      "date": "2008-05-25",
+      "title": "새 시대 새 삶",
+      "score": 46.7,
+      "confidence": 0.37,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 46.7,
+        "꿈": 22.9,
+        "믿음": 18.7,
+        "말": 36.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.2
+    },
+    {
+      "rank": 262,
+      "date": "1996-08-04",
+      "title": "영의 새로운 것으로 살아라",
+      "score": 46.6,
+      "confidence": 0.39,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 46.6,
+        "꿈": 26.8,
+        "믿음": 41.9,
+        "말": 3.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 4.7
+    },
+    {
+      "rank": 263,
+      "date": "1990-11-25",
+      "title": "삶을 낭패케 하는 것들",
+      "score": 46.3,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 46.3,
+        "꿈": 8.0,
+        "믿음": 17.6,
+        "말": 5.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 28.7
+    },
+    {
+      "rank": 264,
+      "date": "2019-12-29",
+      "title": "하나님의 사랑",
+      "score": 46.2,
+      "confidence": 0.52,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 46.2,
+        "꿈": 7.2,
+        "믿음": 35.3,
+        "말": 0.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.9
+    },
+    {
+      "rank": 265,
+      "date": "1985-04-28",
+      "title": "내가 사망의 음침한 골짜기로 다닐지라도",
+      "score": 45.8,
+      "confidence": 0.35,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 45.8,
+        "꿈": 29.2,
+        "믿음": 42.1,
+        "말": 14.6
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 3.7
+    },
+    {
+      "rank": 266,
+      "date": "2012-07-29",
+      "title": "우리를 향하신 하나님의 뜻 7",
+      "score": 45.7,
+      "confidence": 0.29,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "기쁨/기도/감사 설교로 읽히며 thought-only 설교로 보기에는 중심성이 약함.",
+      "all_scores": {
+        "생각": 45.7,
+        "꿈": 43.5,
+        "믿음": 42.6,
+        "말": 25.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.2
+    },
+    {
+      "rank": 267,
+      "date": "2012-12-16",
+      "title": "섬기는 삶 5",
+      "score": 45.6,
+      "confidence": 0.47,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 45.6,
+        "꿈": 11.0,
+        "믿음": 28.0,
+        "말": 11.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 17.6
+    },
+    {
+      "rank": 268,
+      "date": "2007-07-01",
+      "title": "하나님 우리 아버지",
+      "score": 45.5,
+      "confidence": 0.41,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 45.5,
+        "꿈": 24.0,
+        "믿음": 33.5,
+        "말": 9.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 12.0
+    },
+    {
+      "rank": 269,
+      "date": "2009-05-17",
+      "title": "천국과 지옥",
+      "score": 45.4,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 45.4,
+        "꿈": 8.9,
+        "믿음": 21.9,
+        "말": 30.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 15.0
+    },
+    {
+      "rank": 270,
+      "date": "1993-07-18",
+      "title": "야웨를 앙망하는 자는 새 힘을 얻으리니",
+      "score": 45.3,
+      "confidence": 0.51,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 45.3,
+        "꿈": 13.9,
+        "믿음": 20.5,
+        "말": 9.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 24.8
+    },
+    {
+      "rank": 271,
+      "date": "1995-05-21",
+      "title": "밤낮 부르짖는 기도",
+      "score": 44.9,
+      "confidence": 0.41,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 44.9,
+        "꿈": 17.9,
+        "믿음": 41.9,
+        "말": 5.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 3.0
+    },
+    {
+      "rank": 272,
+      "date": "1987-03-29",
+      "title": "큰 기쁨이 있더라",
+      "score": 44.7,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 44.7,
+        "꿈": 11.5,
+        "믿음": 20.2,
+        "말": 42.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.0
+    },
+    {
+      "rank": 273,
+      "date": "2004-01-18",
+      "title": "둘째 아들의 착각",
+      "score": 44.1,
+      "confidence": 0.61,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 44.1,
+        "꿈": 1.3,
+        "믿음": 21.3,
+        "말": 5.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 22.8
+    },
+    {
+      "rank": 274,
+      "date": "1981-08-09",
+      "title": "나는 누구인가",
+      "score": 44.0,
+      "confidence": 0.6,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 44.0,
+        "꿈": 7.6,
+        "믿음": 13.6,
+        "말": 8.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 30.4
+    },
+    {
+      "rank": 275,
+      "date": "2008-12-28",
+      "title": "내적 치유",
+      "score": 43.6,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 43.6,
+        "꿈": 20.1,
+        "믿음": 32.0,
+        "말": 24.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 11.6
+    },
+    {
+      "rank": 276,
+      "date": "1984-06-03",
+      "title": "하나님의 나라",
+      "score": 43.3,
+      "confidence": 0.5,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 43.3,
+        "꿈": 4.4,
+        "믿음": 23.7,
+        "말": 15.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 19.6
+    },
+    {
+      "rank": 277,
+      "date": "2013-04-28",
+      "title": "근원적인 목마름 9",
+      "score": 43.2,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 43.2,
+        "꿈": 9.4,
+        "믿음": 15.3,
+        "말": 19.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 23.8
+    },
+    {
+      "rank": 278,
+      "date": "2017-05-07",
+      "title": "하나님의 역사와 기드온의 삼백 용사",
+      "score": 43.1,
+      "confidence": 0.39,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 43.1,
+        "꿈": 41.9,
+        "믿음": 20.3,
+        "말": 6.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 1.2
+    },
+    {
+      "rank": 279,
+      "date": "2019-09-22",
+      "title": "바람과 파도를 꾸짖으시니",
+      "score": 43.0,
+      "confidence": 0.29,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "광풍과 평안, 예수 신뢰가 중심이고 '생각'은 보조축에 가까움.",
+      "all_scores": {
+        "생각": 43.0,
+        "꿈": 31.8,
+        "믿음": 38.0,
+        "말": 36.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 5.0
+    },
+    {
+      "rank": 280,
+      "date": "1990-07-22",
+      "title": "<b>꺾어진 사람</b>",
+      "score": 42.9,
+      "confidence": 0.39,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.9,
+        "꿈": 19.0,
+        "믿음": 40.7,
+        "말": 7.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.2
+    },
+    {
+      "rank": 281,
+      "date": "2004-05-02",
+      "title": "<b>본론",
+      "score": 42.8,
+      "confidence": 0.58,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.8,
+        "꿈": 10.8,
+        "믿음": 8.9,
+        "말": 11.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 31.0
+    },
+    {
+      "rank": 282,
+      "date": "2005-07-17",
+      "title": "<b>하나님이 보시는 나</b>",
+      "score": 42.6,
+      "confidence": 0.48,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.6,
+        "꿈": 15.9,
+        "믿음": 13.3,
+        "말": 17.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.3
+    },
+    {
+      "rank": 283,
+      "date": "2016-10-23",
+      "title": "용서와 사랑, 정죄와 심판",
+      "score": 42.6,
+      "confidence": 0.42,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.6,
+        "꿈": 14.6,
+        "믿음": 27.2,
+        "말": 17.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 15.4
+    },
+    {
+      "rank": 284,
+      "date": "1996-12-08",
+      "title": "누가 영원을 생각하는가?",
+      "score": 42.2,
+      "confidence": 0.59,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.2,
+        "꿈": 11.8,
+        "믿음": 7.7,
+        "말": 10.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 30.4
+    },
+    {
+      "rank": 285,
+      "date": "2008-05-18",
+      "title": "사랑과 행복 나누기",
+      "score": 42.2,
+      "confidence": 0.67,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.2,
+        "꿈": 4.1,
+        "믿음": 13.0,
+        "말": 4.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 29.2
+    },
+    {
+      "rank": 286,
+      "date": "2015-11-15",
+      "title": "(제목 미상)",
+      "score": 42.2,
+      "confidence": 0.32,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.2,
+        "꿈": 19.7,
+        "믿음": 37.5,
+        "말": 32.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 4.7
+    },
+    {
+      "rank": 287,
+      "date": "1988-12-11",
+      "title": "성경말씀: 마태복음 11장 27절∼30절",
+      "score": 42.1,
+      "confidence": 0.37,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 42.1,
+        "꿈": 37.4,
+        "믿음": 25.2,
+        "말": 8.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 4.7
+    },
+    {
+      "rank": 288,
+      "date": "1999-09-05",
+      "title": "주께서 함께 하심이라",
+      "score": 40.5,
+      "confidence": 0.54,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 40.5,
+        "꿈": 15.6,
+        "믿음": 17.4,
+        "말": 1.2
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 23.1
+    },
+    {
+      "rank": 289,
+      "date": "2002-04-14",
+      "title": "포도나무와 가지",
+      "score": 40.5,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 40.5,
+        "꿈": 23.2,
+        "믿음": 40.2,
+        "말": 8.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 0.3
+    },
+    {
+      "rank": 290,
+      "date": "2008-11-09",
+      "title": "빚단련",
+      "score": 40.4,
+      "confidence": 0.36,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 40.4,
+        "꿈": 21.6,
+        "믿음": 37.8,
+        "말": 13.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.6
+    },
+    {
+      "rank": 291,
+      "date": "1981-07-19",
+      "title": "결혼생활을 깨드리는 작은 여우를 잡아라",
+      "score": 40.3,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 40.3,
+        "꿈": 11.1,
+        "믿음": 30.1,
+        "말": 9.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 10.2
+    },
+    {
+      "rank": 292,
+      "date": "1988-12-18",
+      "title": "성경말씀: 누가복음15장11절-24절",
+      "score": 40.3,
+      "confidence": 0.46,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 40.3,
+        "꿈": 17.3,
+        "믿음": 19.5,
+        "말": 10.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 20.8
+    },
+    {
+      "rank": 293,
+      "date": "1996-04-28",
+      "title": "보라 새 것이 되었도다",
+      "score": 40.3,
+      "confidence": 0.31,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 40.3,
+        "꿈": 17.9,
+        "믿음": 39.5,
+        "말": 30.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 0.8
+    },
+    {
+      "rank": 294,
+      "date": "1997-07-20",
+      "title": "청소년들의 고통",
+      "score": 39.8,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 39.8,
+        "꿈": 14.3,
+        "믿음": 9.8,
+        "말": 26.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 13.0
+    },
+    {
+      "rank": 295,
+      "date": "2009-11-22",
+      "title": "고독, 그것은 내가 원치 않는다",
+      "score": 39.8,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 39.8,
+        "꿈": 22.0,
+        "믿음": 25.8,
+        "말": 5.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 14.0
+    },
+    {
+      "rank": 296,
+      "date": "2000-10-29",
+      "title": "종의 사고방식과 자유인의 사고방식",
+      "score": 39.7,
+      "confidence": 0.34,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 39.7,
+        "꿈": 33.1,
+        "믿음": 37.0,
+        "말": 7.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.7
+    },
+    {
+      "rank": 297,
+      "date": "1986-06-01",
+      "title": "화해",
+      "score": 39.6,
+      "confidence": 0.33,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 39.6,
+        "꿈": 30.5,
+        "믿음": 20.4,
+        "말": 28.4
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 9.1
+    },
+    {
+      "rank": 298,
+      "date": "1994-12-04",
+      "title": "(제목 미상)",
+      "score": 39.5,
+      "confidence": 0.43,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 39.5,
+        "꿈": 18.1,
+        "믿음": 19.1,
+        "말": 14.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 20.4
+    },
+    {
+      "rank": 299,
+      "date": "1999-11-14",
+      "title": "불행을 만드는 사람",
+      "score": 39.5,
+      "confidence": 0.51,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 39.5,
+        "꿈": 8.8,
+        "믿음": 14.3,
+        "말": 14.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 25.2
+    },
+    {
+      "rank": 300,
+      "date": "2009-06-14",
+      "title": "사랑과 행복 나누기 운동",
+      "score": 39.4,
+      "confidence": 0.44,
+      "level": "HIGH",
+      "status": "validated_keep",
+      "status_note": "",
+      "all_scores": {
+        "생각": 39.4,
+        "꿈": 18.4,
+        "믿음": 15.3,
+        "말": 17.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 21.0
+    }
+  ],
+  "hard_excludes": [
+    {
+      "rank": 33,
+      "date": "2016-01-17",
+      "title": "갈렙의 마음 5",
+      "score": 164.7,
+      "confidence": 0.45,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "전체점수 최고값이 '꿈'이며, 본문도 갈렙의 비전/정탐 보고에 무게가 더 큼.",
+      "all_scores": {
+        "생각": 164.7,
+        "꿈": 202.2,
+        "믿음": 46.0,
+        "말": 34.3
+      },
+      "top_score_category": "꿈",
+      "margin_to_second": 37.5
+    },
+    {
+      "rank": 68,
+      "date": "2014-02-23",
+      "title": "고난을 극복하는 세 가지 길 19",
+      "score": 120.3,
+      "confidence": 0.49,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "전체점수 최고값이 '믿음'이며, 본문 핵심이 고난 중 하나님께 맡기는 신앙에 가까움.",
+      "all_scores": {
+        "생각": 120.3,
+        "꿈": 8.5,
+        "믿음": 125.8,
+        "말": 1.7
+      },
+      "top_score_category": "믿음",
+      "margin_to_second": 5.5
+    },
+    {
+      "rank": 100,
+      "date": "2018-06-24",
+      "title": "믿음, 바라는 것들의 실상",
+      "score": 96.7,
+      "confidence": 0.3,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "제목과 본문 구조가 모두 '믿음' 중심이며, 전체점수 최고값도 '믿음'임.",
+      "all_scores": {
+        "생각": 96.7,
+        "꿈": 62.8,
+        "믿음": 108.3,
+        "말": 94.5
+      },
+      "top_score_category": "믿음",
+      "margin_to_second": 11.6
+    },
+    {
+      "rank": 121,
+      "date": "2008-04-27",
+      "title": "나의 삶을 다스리는 법칙",
+      "score": 86.0,
+      "confidence": 0.38,
+      "level": "HIGH",
+      "status": "hard_exclude",
+      "status_note": "생각 요소가 강하지만 전체점수 최고값이 '꿈'이며, 설교 구조가 생각→꿈 전개로 이어짐.",
+      "all_scores": {
+        "생각": 86.0,
+        "꿈": 93.8,
+        "믿음": 35.7,
+        "말": 32.5
+      },
+      "top_score_category": "꿈",
+      "margin_to_second": 7.8
+    }
+  ],
+  "review_excludes": [
+    {
+      "rank": 216,
+      "date": "2012-10-07",
+      "title": "마귀와의 싸움 6",
+      "score": 55.1,
+      "confidence": 0.29,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "영적 전쟁, 믿음, 입술의 시인이 강하게 섞여 있고 thought/word tie 사례임.",
+      "all_scores": {
+        "생각": 55.1,
+        "꿈": 25.6,
+        "믿음": 53.0,
+        "말": 55.1
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 0.0
+    },
+    {
+      "rank": 244,
+      "date": "2014-07-20",
+      "title": "믿음의 기도 11",
+      "score": 49.1,
+      "confidence": 0.3,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "제목과 본문 중심축이 '믿음의 기도'이며 생각 요소는 보조적임.",
+      "all_scores": {
+        "생각": 49.1,
+        "꿈": 33.5,
+        "믿음": 37.1,
+        "말": 45.3
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 3.8
+    },
+    {
+      "rank": 266,
+      "date": "2012-07-29",
+      "title": "우리를 향하신 하나님의 뜻 7",
+      "score": 45.7,
+      "confidence": 0.29,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "기쁨/기도/감사 설교로 읽히며 thought-only 설교로 보기에는 중심성이 약함.",
+      "all_scores": {
+        "생각": 45.7,
+        "꿈": 43.5,
+        "믿음": 42.6,
+        "말": 25.9
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 2.2
+    },
+    {
+      "rank": 279,
+      "date": "2019-09-22",
+      "title": "바람과 파도를 꾸짖으시니",
+      "score": 43.0,
+      "confidence": 0.29,
+      "level": "HIGH",
+      "status": "review_exclude",
+      "status_note": "광풍과 평안, 예수 신뢰가 중심이고 '생각'은 보조축에 가까움.",
+      "all_scores": {
+        "생각": 43.0,
+        "꿈": 31.8,
+        "믿음": 38.0,
+        "말": 36.8
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 5.0
+    }
+  ],
+  "reserve_candidates": [
+    {
+      "date": "1998-02-01",
+      "title": "마음을 새롭게 함으로 변화를 받으라",
+      "category": "생각",
+      "score": 33.8,
+      "confidence": 0.43,
+      "all_scores": {
+        "생각": 33.8,
+        "꿈": 3.6,
+        "믿음": 18.7,
+        "말": 22.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 11.3,
+      "reason": "제목 자체가 '마음을 새롭게 함으로 변화를 받으라'로 생각 요소가 매우 직접적임."
+    },
+    {
+      "date": "2010-03-21",
+      "title": "나는 어떻게 살아야 하나?",
+      "category": "생각",
+      "score": 38.5,
+      "confidence": 0.48,
+      "all_scores": {
+        "생각": 38.5,
+        "꿈": 17.3,
+        "믿음": 13.9,
+        "말": 11.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 21.2,
+      "reason": "삶의 목적과 마음의 방향, 마음의 광야를 다루는 설교로 thought 축이 뚜렷함."
+    },
+    {
+      "date": "1992-05-24",
+      "title": "바벨탑과 십자가",
+      "category": "생각",
+      "score": 38.5,
+      "confidence": 0.48,
+      "all_scores": {
+        "생각": 38.5,
+        "꿈": 11.0,
+        "믿음": 30.8,
+        "말": 0.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 7.7,
+      "reason": "바벨탑의 교만, 인본주의, 잘못된 마음가짐을 중심으로 전개되어 생각 검토 가치가 높음."
+    },
+    {
+      "date": "2003-01-05",
+      "title": "삶의 우선 순위를 정하라",
+      "category": "생각",
+      "score": 35.7,
+      "confidence": 0.43,
+      "all_scores": {
+        "생각": 35.7,
+        "꿈": 27.5,
+        "믿음": 9.9,
+        "말": 10.5
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 8.2,
+      "reason": "삶의 우선순위와 마음의 정리정돈을 직접적으로 다루는 설교임."
+    },
+    {
+      "date": "1990-01-14",
+      "title": "미  혹",
+      "category": "생각",
+      "score": 38.3,
+      "confidence": 0.54,
+      "all_scores": {
+        "생각": 38.3,
+        "꿈": 7.6,
+        "믿음": 16.1,
+        "말": 9.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 22.2,
+      "reason": "미혹과 진리 사이의 선택, 올바른 판단과 사고 전환을 강조함."
+    },
+    {
+      "date": "1990-04-22",
+      "title": "내 멍에는 쉽고 내 짐은 가볍다",
+      "category": "생각",
+      "score": 34.0,
+      "confidence": 0.56,
+      "all_scores": {
+        "생각": 34.0,
+        "꿈": 0.0,
+        "믿음": 22.3,
+        "말": 4.7
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 11.7,
+      "reason": "수고와 무거운 짐 가운데 마음의 평안과 기쁨을 다루는 thought 후보임."
+    },
+    {
+      "date": "1992-02-02",
+      "title": "이런 사람에게 복이 있나니",
+      "category": "생각",
+      "score": 38.4,
+      "confidence": 0.44,
+      "all_scores": {
+        "생각": 38.4,
+        "꿈": 8.2,
+        "믿음": 33.2,
+        "말": 7.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 5.2,
+      "reason": "복 있는 사람의 태도와 마음가짐 쪽으로 검토할 가치가 있음."
+    },
+    {
+      "date": "1988-09-04",
+      "title": "성경말씀: 이사야 60장 1절",
+      "category": "생각",
+      "score": 34.6,
+      "confidence": 0.53,
+      "all_scores": {
+        "생각": 34.6,
+        "꿈": 13.7,
+        "믿음": 8.0,
+        "말": 9.0
+      },
+      "top_score_category": "생각",
+      "margin_to_second": 20.9,
+      "reason": "분류 데이터상 thought 점수가 높고, 긍정적 시각과 소망 메시지 축으로 재검토 가치가 있음."
+    }
+  ],
+  "replacement_plan": [
+    {
+      "remove": {
+        "rank": 33,
+        "date": "2016-01-17",
+        "title": "갈렙의 마음 5",
+        "status": "hard_exclude",
+        "reason": "전체점수 최고값이 '꿈'이며, 본문도 갈렙의 비전/정탐 보고에 무게가 더 큼."
+      },
+      "add": {
+        "date": "1998-02-01",
+        "title": "마음을 새롭게 함으로 변화를 받으라",
+        "category": "생각",
+        "score": 33.8,
+        "confidence": 0.43,
+        "all_scores": {
+          "생각": 33.8,
+          "꿈": 3.6,
+          "믿음": 18.7,
+          "말": 22.5
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 11.3,
+        "reason": "제목 자체가 '마음을 새롭게 함으로 변화를 받으라'로 생각 요소가 매우 직접적임."
+      }
+    },
+    {
+      "remove": {
+        "rank": 68,
+        "date": "2014-02-23",
+        "title": "고난을 극복하는 세 가지 길 19",
+        "status": "hard_exclude",
+        "reason": "전체점수 최고값이 '믿음'이며, 본문 핵심이 고난 중 하나님께 맡기는 신앙에 가까움."
+      },
+      "add": {
+        "date": "2010-03-21",
+        "title": "나는 어떻게 살아야 하나?",
+        "category": "생각",
+        "score": 38.5,
+        "confidence": 0.48,
+        "all_scores": {
+          "생각": 38.5,
+          "꿈": 17.3,
+          "믿음": 13.9,
+          "말": 11.0
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 21.2,
+        "reason": "삶의 목적과 마음의 방향, 마음의 광야를 다루는 설교로 thought 축이 뚜렷함."
+      }
+    },
+    {
+      "remove": {
+        "rank": 100,
+        "date": "2018-06-24",
+        "title": "믿음, 바라는 것들의 실상",
+        "status": "hard_exclude",
+        "reason": "제목과 본문 구조가 모두 '믿음' 중심이며, 전체점수 최고값도 '믿음'임."
+      },
+      "add": {
+        "date": "1992-05-24",
+        "title": "바벨탑과 십자가",
+        "category": "생각",
+        "score": 38.5,
+        "confidence": 0.48,
+        "all_scores": {
+          "생각": 38.5,
+          "꿈": 11.0,
+          "믿음": 30.8,
+          "말": 0.0
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 7.7,
+        "reason": "바벨탑의 교만, 인본주의, 잘못된 마음가짐을 중심으로 전개되어 생각 검토 가치가 높음."
+      }
+    },
+    {
+      "remove": {
+        "rank": 121,
+        "date": "2008-04-27",
+        "title": "나의 삶을 다스리는 법칙",
+        "status": "hard_exclude",
+        "reason": "생각 요소가 강하지만 전체점수 최고값이 '꿈'이며, 설교 구조가 생각→꿈 전개로 이어짐."
+      },
+      "add": {
+        "date": "2003-01-05",
+        "title": "삶의 우선 순위를 정하라",
+        "category": "생각",
+        "score": 35.7,
+        "confidence": 0.43,
+        "all_scores": {
+          "생각": 35.7,
+          "꿈": 27.5,
+          "믿음": 9.9,
+          "말": 10.5
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 8.2,
+        "reason": "삶의 우선순위와 마음의 정리정돈을 직접적으로 다루는 설교임."
+      }
+    },
+    {
+      "remove": {
+        "rank": 216,
+        "date": "2012-10-07",
+        "title": "마귀와의 싸움 6",
+        "status": "review_exclude",
+        "reason": "영적 전쟁, 믿음, 입술의 시인이 강하게 섞여 있고 thought/word tie 사례임."
+      },
+      "add": {
+        "date": "1990-01-14",
+        "title": "미  혹",
+        "category": "생각",
+        "score": 38.3,
+        "confidence": 0.54,
+        "all_scores": {
+          "생각": 38.3,
+          "꿈": 7.6,
+          "믿음": 16.1,
+          "말": 9.0
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 22.2,
+        "reason": "미혹과 진리 사이의 선택, 올바른 판단과 사고 전환을 강조함."
+      }
+    },
+    {
+      "remove": {
+        "rank": 244,
+        "date": "2014-07-20",
+        "title": "믿음의 기도 11",
+        "status": "review_exclude",
+        "reason": "제목과 본문 중심축이 '믿음의 기도'이며 생각 요소는 보조적임."
+      },
+      "add": {
+        "date": "1990-04-22",
+        "title": "내 멍에는 쉽고 내 짐은 가볍다",
+        "category": "생각",
+        "score": 34.0,
+        "confidence": 0.56,
+        "all_scores": {
+          "생각": 34.0,
+          "꿈": 0.0,
+          "믿음": 22.3,
+          "말": 4.7
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 11.7,
+        "reason": "수고와 무거운 짐 가운데 마음의 평안과 기쁨을 다루는 thought 후보임."
+      }
+    },
+    {
+      "remove": {
+        "rank": 266,
+        "date": "2012-07-29",
+        "title": "우리를 향하신 하나님의 뜻 7",
+        "status": "review_exclude",
+        "reason": "기쁨/기도/감사 설교로 읽히며 thought-only 설교로 보기에는 중심성이 약함."
+      },
+      "add": {
+        "date": "1992-02-02",
+        "title": "이런 사람에게 복이 있나니",
+        "category": "생각",
+        "score": 38.4,
+        "confidence": 0.44,
+        "all_scores": {
+          "생각": 38.4,
+          "꿈": 8.2,
+          "믿음": 33.2,
+          "말": 7.0
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 5.2,
+        "reason": "복 있는 사람의 태도와 마음가짐 쪽으로 검토할 가치가 있음."
+      }
+    },
+    {
+      "remove": {
+        "rank": 279,
+        "date": "2019-09-22",
+        "title": "바람과 파도를 꾸짖으시니",
+        "status": "review_exclude",
+        "reason": "광풍과 평안, 예수 신뢰가 중심이고 '생각'은 보조축에 가까움."
+      },
+      "add": {
+        "date": "1988-09-04",
+        "title": "성경말씀: 이사야 60장 1절",
+        "category": "생각",
+        "score": 34.6,
+        "confidence": 0.53,
+        "all_scores": {
+          "생각": 34.6,
+          "꿈": 13.7,
+          "믿음": 8.0,
+          "말": 9.0
+        },
+        "top_score_category": "생각",
+        "margin_to_second": 20.9,
+        "reason": "분류 데이터상 thought 점수가 높고, 긍정적 시각과 소망 메시지 축으로 재검토 가치가 있음."
+      }
+    }
+  ]
+}
